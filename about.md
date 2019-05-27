@@ -1,17 +1,38 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
 ---
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<p>Hello All! I'm currently a Senior undergraduate at Indian Institute of Technology Bombay, majoring in Electrical Engineering with a minor in Computer Science. Throughout my stay in the campus, I have strived to explore as many dimensions as possible. I made numerous friends and lost a few as well. I went to places all around the 'city of dreams'. Also blessed to have experienced Singapore and Japan during my sophomore and junior years, respectively. I have actively participated in various activities in the institute. I always keep myself engrossed in activites that interests me.</p>
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+<p>I am extremely fascinated by Augmented Reality and its potential to transform the world around us. I have been trying to explore this area of research and development. Apart from this, I am also keen to explore more of Computer Architecture, Computer Vision and Signal Processing. I have always felt that Inter-disciplanary research will lead us to marvellous technical innovations. As part of my curriculum, I have acquired various technical skills and knowledge with great practical potential. On similar lines, I have applied these understanding of the subjects in my internships.</p>
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+<p>To know more of what I do, check my blog, projects or Resume.</p>
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+<!-- <h2>Skills</h2>
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+<ul class="skill-list">
+	<li>HTML - Jade - Haml - Erb</li>
+	<li>Responsive (Mobile First)</li>
+	<li>CSS (Stylus, Sass, Less)</li>
+	<li>Css Frameworks (Bootstrap, Foundation)</li>
+	<li>Javascript (Design Patterns, Testes)</li>
+	<li>NodeJS</li>
+	<li>AngularJS - ReactJS</li>
+	<li>Grunt - Gulp - Yeoman</li>
+	<li>Git</li>
+	<li>PHP</li>
+	<li>Python</li>
+	<li>MySQL - MongoDB</li>
+	<li>Scrum and Kanban</li>
+	<li>TDD e Continuous Integration</li>
+</ul>
+
+<h2>Projects</h2>
+
+<ul>
+	<li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="https://github.com/">Ipsum Dolor</a></li>
+	<li><a href="https://github.com/">Dolor Lorem</a></li>
+</ul> -->

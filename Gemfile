@@ -1,5 +1,5 @@
-source 'https://rubygems.org'
-gem 'jekyll'
-gem 'jekyll-archives'
-gem 'jekyll-sitemap'
-gem 'jekyll-paginate'
+source 'http://rubygems.org'
+
+gem 'github-pages'
+gem 'html-proofer'
+gem 'jekyll-admin'
