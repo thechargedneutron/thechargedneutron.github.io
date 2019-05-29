@@ -1,5 +1,5 @@
 ---
-title: "Markdown Extra Components"
+title: "Markdown Extraa Components"
 layout: post
 date: 2016-02-24 22:48
 image: /assets/images/markdown.jpg
@@ -83,7 +83,7 @@ Like the [Medium](https://medium.com/) component.
     </div>
 
     <div class="toright">
-        <img class="image" src="{{ site.url }}/{{ site.picture }}" alt="Alt Text">
+        <img class="image" src="{{ site.url }}/assets/images/soap.JPG" alt="Alt Text">
         <figcaption class="caption">Photo by John Doe</figcaption>
     </div>
 </div>
