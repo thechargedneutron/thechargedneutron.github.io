@@ -8,7 +8,6 @@ tag:
 - Introduction
 - Blog
 - GitHub
-star: true
 category: blog
 author: kumarashutosh
 description: My very own page

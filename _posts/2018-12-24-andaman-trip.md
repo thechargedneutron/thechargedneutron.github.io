@@ -10,7 +10,6 @@ tag:
 - Vacation
 - Family
 - Winter
-star: true
 category: blog
 author: kumarashutosh
 description: Good times in Andamans

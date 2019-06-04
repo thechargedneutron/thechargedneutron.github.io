@@ -9,7 +9,6 @@ tag:
 - PSF
 - Open Source
 - dipy
-star: true
 category: blog
 author: kumarashutosh
 description: GSoC Starts!!

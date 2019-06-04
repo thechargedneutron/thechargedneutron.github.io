@@ -8,7 +8,6 @@ tag:
 - Pull Request
 - scikit-learn
 - Open Source
-star: true
 category: blog
 author: kumarashutosh
 description: My contributions to scikit-learn

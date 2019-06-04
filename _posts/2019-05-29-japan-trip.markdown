@@ -7,7 +7,6 @@ headerImage: false
 tag:
 - travel
 - Japan
-star: true
 category: blog
 author: kumarashutosh
 description: Good times in the land of rising sun
