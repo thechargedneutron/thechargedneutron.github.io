@@ -1,5 +1,5 @@
 ---
-title: "Summers in Japan"
+title: "Summers in Japan - II"
 layout: post
 date: 2019-05-28 22:44
 image: /assets/images/markdown.jpg
@@ -7,73 +7,66 @@ headerImage: false
 tag:
 - travel
 - Japan
-category: blog
+category: blog-travel
 author: kumarashutosh
 description: Good times in the land of rising sun
 ---
 
 ## Summary:
 
-I am in Japan for eight weeks as an intern at Sony Corporation, Atsugi City, Kanagawa Prefecture - approx an hour and half from Tokyo. I will give a sincere effort to pen down my expeditions in this blog post.
+My first blog post was for the first two weeks. In this blog I try to list down my adventures in the next two weeks of my stay in Japan.
 
-### <span style="color:red">The hustle and bustle of Shinjuku (Friday, Week 1)</span>
+### <span style="color:red">FujiQ Highlands (Saturday, Week 3)</span>
 
-Shinjuku is located in the heart of Tokyo, with it being one of the busiest stations in the city. With so many train lines and station exits, it is very easy to get lost - exactly what makes it special. The excitement of Friday evening, along with that of meeting my friends, made the journey from Atsugi to Shinjuku finish in no time.
+Situated at the footsteps of Mt. Fuji, this amusement park offers intense thrill and screams. The rides here are probably the best one can get in a single day. The "screamer" rides pretty much lives up to their name. The roller coasters take you through all the ups and downs possible.
 
-#### The Soap Shop - Lush
+I, along with a big group of six more friends, reached FujiQ Highland at 8.55 am, a whisker shy of the opening time of 9 am. Since there's a long line for each important ride, and that we went there on a Saturday, some of us bought Fast Passes which would give priority entry with no waiting time. I bought Fast Pass for three out of four celebrated rides. The entry time of the fast pass rides were deliberately spread into two hours in order to have some time in between. We followed the order as written below and would advice the same order to anyone, since the earlier ones are a bit on the easier side. 
 
-What's better place to get lost than a soap shop, something very unconventional in Indian context. Strong fragnance pulled us to this shop and we ended up spending around an hour here. All types of products for all types of skin for all ages. Needless to say, I was quite impressed.
+#### Do-Dodonpa
 
-#### Government Metropolitan Building
+This ride is famous for its high speed start. It achieves a whopping speed of 180 kmph in just 1.56s. The ride starts with a countdown in the background and whoa! we are crusing at 180 kmph. Further sharp turns and twists awaits us just the speed goes down a bit. The duration of the ride was less but still manager to cover 1.244km in this time.
 
-This 45 storied buidling is a Japanese government buidling whose top floor is kept open for public to enjoy the city from above. It is definitely not as high as the Tokyo Tower or the Skytree, but its FREE. And this is precisely why we considered this as a place to go. We were not disappointed as the view from top was really good. I accept that the view from Sktree was many times better than this, but this was a good starting point.
+#### Takabisha
 
-We roamed around the busy streets and had dinner at a decent place before heading off to our respective residences.
+Another screamer, this ride is known for it's vertical ascent followed by 121 degree straight descent. Again in this ride, there was a fast start, indicating the level of difficulty. The ride made a slow ascent of about 50 metres - this was the scariest part. My torso was parallel to ground and I was going straight up, and that too at a very slow speed. As soon as the ride reached the top, it began a descent, followed by a series of turns and twists. We seriously needed some rest after these two truely adventurous rides.
+
+#### Eejanaika
+
+Eejanaika is called as the four dimension ride - famous for the degree of freedom it offers. I would rate this as the best ride of the park. This ride has all kinds of movements, including movement about oneself. The best part of this ride is that this ride starts backwards. And soon the ride makes us move in all kinds possible, including flipping around our own seat. Also the track of this ride has all kinds of turns which make it even more exciting.
+
+#### Other Rides
+
+Apart from these four important rides, we had a lot of other relaxing rides and fun activites. The Splash ride was pretty relaxing in which the ride went straight into the water thus creating a big splash. Apart from that there was another fun water ride which made us go round a track full of water - occasionally spilling onto us. The "Tentekomai" ride took us to a great height. Mt Fuji was visible from that high and I enjoyed the cool breeze up there. There were a couple of more fun rides including Mad Mouse, Boating and the Cup Ride - all were relaxing and fun.
+
+We returned to our respective residence in the Highway bus we had bought tickets for. We all were very exhausted after a truly adventourous day.
 
 
-<p>
-<img src="/assets/images/soap.JPG" width="400"> <img src="/assets/images/govt_building.JPG" width="400"> <br>
-<em> (Left) Soaps all around the shop, each having its own presence. (Right) View from the top of 45th Floor</em>
-</p>
 
-### <span style="color:red">Trip to Ueno and the Skytree (Saturday, Week 1)</span>
+### <span style="color:red">Odaiba - High-Tech Entertainment Hub (Sunday, Week 3)</span>
 
-#### Ueno Zoological Park
+Visiting Teamlabs was the prime motivation to spend a day in Odaiba - the high-tech entertainment hub of Tokyo.
 
-Ueno Zoo, located near Tokyo station, is very big with everything one can think of. Penguins, Polar Bears, Giant Panda, Giraffe, Zebra and what not. Even two was seemed less, despite skipping common animals like Tiger, Elephant. It also has Vivarium which is home to various types of tortoises, turtles and crocodiles. I never imagined seeing a penguin in Tokyo, and that too under an open sky. This zoo is a must go to witness the beautiful fauna.
+#### Toyota Mega Web
 
-#### Ueno Park
+Visiting this grand Toyota Showroom was never in the predecided to-do list, but as soon as the stylish Cars caught our eyes en-route to Teamlabs, we decided to spend some time here. There were verious models on display. Not only cars but also other products Toyota is focussing at. We saw some really cool vehicles including a self balancing one wheeled vehicle. There was a driving simulator at display with free test drive. It had good feedback mechanism and nice interface, but the controls were not good and unrealistic. Spending half an hour on this simulator was definitely not worth it. :(
 
-Famous for its Cherry Blossoms, this park is very big in terms of the area. The wide walking trail with Cherry trees attempting to touch each other from opposite sides forms a picturesque scene. The cold breeze freshend us after the two hour walk at the zoo. All charged up, time to move on to the next point. 
+#### Teamlabs - Borderless
 
-#### Sumida Aquarium
+Teamlabs is a very famous Digital Art Show with tones of LEDs and light effects into place. I was pretty impressed by their concept. They call their art "Borderless" - having no boundaries, and hence, they do not provide a fixed map of the place. It is upon the visitor to explore the art works all around. We spent a very good three hours in this excellent digital art center. The place is divided into variety of arts, some of them I'll touch upon here.
 
-Sitting comfortably at the foot of the giant skytree, most of the visitors to this aquarium can be atrributed to the skytree. Same was the case with us. The fishes on display were worth having a glance, still I would say this aquarium does not stand apart from any other aquarium. Although, the raft of penguins in the ground floor was cool and enjoyable.
+##### Borderless
 
-#### The Skytree
+Test
 
-This giant engineering masterpiece stand upright unaltered by the buzz of the city. The ticket to go to the observation deck at 350m costs around 2300 Yens. There is another option to go to both the observation desks at 350m and 450m, but we chose the former one considering our budget. We were definitely not let down at 350m, the view was superb with every inch of Tokyo visible from above. All the skyscrappers looked like weeds from that high. A VR headset displaying GoPro video captured by a worker during the construction of this skytree shook me up. This skytree is invincible. Also, there's a small skywalk in the observation deck. It was frigtening to look 350 metres straight down to the ground. The day ended really high.
+#### Statue of Liberty
 
-<p>
-<img src="/assets/images/zoo.JPG" width="400"> <img src="/assets/images/ueno_park.JPG" width="400"> <br>
-</p>
 
-<p>
-<img src="/assets/images/aquarium.JPG" width="400"> <img src="/assets/images/skytree.JPG" width="400"> <br>
-<em> (Top Left) A giraffe at Ueno Zoo. (Top Right) Cherry Blossom Street in Ueno Park. (Bottom Left) Close up of a fish in an aquarium. (Bottom Right) The giant skytree.</em>
-</p>
+Good walk along the bay
 
-### <span style="color:red">Relaxing in Atusugi City (Sunday, Week 1)</span>
 
-#### Atsugi Chuo Park
+### <span style="color:red">Akihabara (Saturday, Week 4)</span>
 
-Sunday was spent relaxing after a tiring first week and a joyful weekend. I went to Atsugi Chuo Park which is around one kilometres from my residence. The park was full of joy with kids playing all around. Some were skating, some playing basketball and a group of people practicing dance. I spent the time walking around the beautiful park. After around an hour at the park, I explored nearby places and found out a couple of good restaurents.
-
-### <span style="color:red">Unplanned trip to the Capital (Wednesday, Week 2)</span>
-
-An uneventful wednesday at work motivated me to visit the capital in the evening and I started without another thought. I was joined by my friends upon reaching Tokyo.
-
-#### Tokyo Tower
+### <span style="color:red">Shinjuku (Sunday, Week 4)</span>
 
 The glamourous Tokyo Tower is situated just along the roadside, at the center of a busy road intersection. This giant tower is very pleasing to look at with tiny looking elevators taking people to heights. Tokyo Tower was built much before the Skytree. Although I must agree that Skytree was better in terms of both view and height, credits must be given to Tokyo Tower for being much older than the Skytree. After Tokyo Tower, we set out on a walk to reach Rainbow Bridge.
 

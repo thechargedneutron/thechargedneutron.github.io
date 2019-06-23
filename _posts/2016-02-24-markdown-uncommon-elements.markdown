@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - markdown
 - elements
-category: blog
+category: blog-unkonwn
 author: kumarashutosh
 description: Markdown summary with different options
 ---
