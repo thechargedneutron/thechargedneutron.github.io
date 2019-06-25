@@ -1,5 +1,5 @@
 ---
-title: "Summers in Japan - I"
+title: "Weekends in Japan - I"
 layout: post
 date: 2019-05-28 22:44
 image: /assets/images/markdown.jpg
