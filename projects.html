@@ -2,14 +2,28 @@
 layout: page
 title: Projects
 ---
+<style>
+  .bottom-three {
+     margin-top: -0.2cm;
+     margin-bottom: 5cm;
+  }
+</style>
+
+<section class="list">
+    <span style="color:black;">Major projects are described in separate blogs. Remaining projects can be found in the Other Projects page. Projects can also be searched by tags (augmented reality, machine learning, signal processing etc)</span>
+</section>
 <section class="list">
     {% for post in site.posts %}
         {% if post.projects %}
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
                     <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
-                    <h3 class="title">{{ post.title }}</h3>
+                    <h2 class="title"><span style="color:black;">{{ post.title }}</span></h2>
                 </a>
+                <p class="bottom-three">
+                    {{ post.subtitle }}
+                    {{ post.description }}
+                </p>
             </div>
         {% endif %}
     {% endfor %}
