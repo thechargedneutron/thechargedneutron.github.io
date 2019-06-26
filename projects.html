@@ -3,9 +3,16 @@ layout: page
 title: Projects
 ---
 <style>
-  .bottom-three {
+  .custom-one {
+     margin-top: -0.4cm;
+     margin-bottom: 0.2cm;
+  }
+</style>
+
+<style>
+  .custom-two {
      margin-top: -0.2cm;
-     margin-bottom: 5cm;
+     margin-bottom: 0.8cm;
   }
 </style>
 
@@ -20,8 +27,10 @@ title: Projects
                     <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
                     <h2 class="title"><span style="color:black;">{{ post.title }}</span></h2>
                 </a>
-                <p class="bottom-three">
-                    {{ post.subtitle }}
+                <p class="custom-one">
+                    <span style="color:red;font-size: large;font-family:cursive;"><b>{{ post.subtitle }}</b></span>
+                </p>
+                <p class="custom-two">
                     {{ post.description }}
                 </p>
             </div>
