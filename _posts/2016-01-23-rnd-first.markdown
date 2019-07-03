@@ -1,5 +1,5 @@
 ---
-title: "Extended Visualization: Focus in GLSL"
+title: "Discriminative Localization in Medical Images"
 layout: post
 date: 2016-01-23 22:10
 tag: jekyll
@@ -7,11 +7,12 @@ image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
-subtitle: Google Summer of Code
-description: "This is another shit description."
+subtitle: Research and Development Project under Prof Amit Sethi, IIT Bombay
+description: Worked on algorithms to obtain the activation regions in Breast Cancer tissue images. 
 category: project
 author: kumarashutosh
 externalLink: false
+year: year2018
 ---
 
 ![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
