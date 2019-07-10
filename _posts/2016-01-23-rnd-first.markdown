@@ -3,7 +3,7 @@ title: "Discriminative Localization in Medical Images"
 layout: post
 date: 2016-01-23 22:10
 tag: jekyll
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+image: /assets/images/iitb-logo.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -15,23 +15,18 @@ externalLink: false
 year: year2018
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+## Introduction
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+Research and Development Project done under Prof Amit Sethi, IIT Bombay.
 
----
+## The Work
 
-What has inside?
+Developed an algorithm to visualize the parts of image influencing a decision in a CNN architecture. Deployed the algorithm to Breast Cancer Dataset and obtained the activation regions in Benign, In-Situ, Normal and Invasive tissues and analyzed the various regions of interest. Generated Heatmaps of localization in tissues and investigated hidden features across four classes. Performed the localization task both on patches as well as on whole tissue images.
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+## Project Report
 
----
+Can be seen [here](/assets/docs/RnD_Report_Kumar_Ashutosh.pdf)
 
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+## Project Presentation
+
+Can be seen [here](/assets/docs/RnD_Final_Presentation.pdf)

@@ -3,7 +3,7 @@ title: "Extended Visualization: Focus in GLSL"
 layout: post
 date: 2016-01-23 22:10
 tag: jekyll
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+image: /assets/images/gsoc-logo.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -15,23 +15,30 @@ externalLink: false
 year: year2018
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+## Introduction
 
----
+Google Summer of Code is an annual Open Source program which selects open source enthusiasts who work on interesting projects under many different open source organizations. The aim of the program is to promote open source and to teach the practices of good coding skills. The program is high competitive and the acceptance rate is around 20-25%.
 
-What has inside?
+I was selected in dipy - an open source organization in Medical Imaging. My mentor is an Assistant Professor at Indiana University, Bloomington.
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+## The Work
 
----
+Employed GLSL Shadersto build stunning visualizations of brain images and other datasets. Studied the various uses ofFragment,VertexandGeometry Shadersand extended the current viz module to support Shaders that would result in a better visualization. Developedvtk.SetGeometryShaderCode examples which would be helpful to both dipy and vtk libraries
 
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+
+## Documentation
+
+The full documentation and Code can be found at the project GitHub page [here](https://github.com/thechargedneutron/GSoC-Codes).
+
+
+## Videos
+
+Demo Videos of my attempt can be found in the Documentation. They are alo listed here.
+
+- Frame Rate Calculation (Runtime) - https://youtu.be/KZv6qBAq5ig
+- Sphere with User defined Color - https://youtu.be/xPwqEfEgnCE
+- Silder to change axes value of Ellipsoid - https://youtu.be/o0LJGDgcxUc
+- Geometry Shader 1D - https://youtu.be/_k8jkBmq2ds
+- Geometry Shader 2D - https://youtu.be/FiJSYcEHWSE
+- Geometry Shader 3D - https://youtu.be/pOayomvwDNA

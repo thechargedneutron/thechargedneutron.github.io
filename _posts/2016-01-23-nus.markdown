@@ -3,7 +3,7 @@ title: "Multi-layered analysis of Brain Networks"
 layout: post
 date: 2016-01-23 22:10
 tag: jekyll
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+image: /assets/images/nus-logo.jpg
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
@@ -15,23 +15,16 @@ externalLink: false
 year: year2018
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+## Introduction
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+I was selected as a research intern under Prof Anastasios Bezerianos and Prof Nitish Thakor, at SINAPSE (Singapore Institute for Neurotechnology), at NUS (National University of Singapore). I worked in eastablishing brain connectivity patterns during creative thinking. I explored how the EEG (Electroencephelogram) brain pattern changes during creative thinking and established statistical differences between the two states of mind.
 
----
+## The Work
 
-What has inside?
+Investigated novel approach of Multi-Layered Analysisin Brain Connectivity Patterns during Creative Ideation using EEG connectivity strengths.Obtained statistical significant differences between Convergent Thinking and Divergent Thinking at both nodal as well as global level on various graph metrics including Degree Sum,PageRank Centrality and Betweenness Centrality. Also obtained statistical significance on Multilayered Supra-Adjacency Matrix.
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+## Publication
 
----
+The work done during my Internship period at SINAPSE, NUS was published at the *International Conference on Brain Informatics* held from Dec 7-9, 2018 at Texas, US.
 
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+An online copy of the publication can be found [here](https://link.springer.com/chapter/10.1007/978-3-030-05587-5_28).
