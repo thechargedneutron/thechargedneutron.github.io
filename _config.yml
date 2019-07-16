@@ -14,7 +14,7 @@ picture: assets/images/ashu_profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/docs/cv.pdf
+resume-url: cv.pdf
 
 url: https://thechargedneutron.github.io
 # your url: http://USERNAME.github.io
