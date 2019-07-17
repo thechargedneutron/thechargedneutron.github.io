@@ -18,9 +18,14 @@ externalLink: false
 year: year2019
 ---
 
-## Introduction
+### Introduction
 
 This project is aimed at exploring and experimenting various possibilities in Mobile based Augmented Reality. This project was carried out under the supervision of Prof. Parag Chaudhuri, Computer Science Department, IIT Bombay.
 
 
-## 
+### Work Report
+
+The Work Reports contains game development flow, screenshots of gameplay as well as the user survey.
+
+<object width="850" height="1200" data="/assets/docs/CS_490_Report_Kumar_Ashutosh.pdf">
+</object>

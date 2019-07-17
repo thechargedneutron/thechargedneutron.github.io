@@ -45,6 +45,11 @@ All the existing keyboard has this issue that there is no feedback, i.e. the use
 
 I used "Attachement Rig" model in Unity and attached it to the existing Hand Model in the Unity. This model has all the different part of the finger available as separate GameObject. Once I have done this, it is now easy to find the distance between two GameObject, which in turn would be representation of the real hand position. With proper thresholding, we can have a good reaction and the key press was printed on the screen.
 
+<video width="600" controls>
+  <source src="/assets/videos/leap-motion.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+
 ### Problems with this Keyboard design
 
 The major issue in this was the tracking of the fingers. Leap Motion sufferes from errors due to finger getting occluded. And in this design, we are forcing the thumb to come in front to other fingers while typing. Hence this is prone to error and hence the results were erreneous.

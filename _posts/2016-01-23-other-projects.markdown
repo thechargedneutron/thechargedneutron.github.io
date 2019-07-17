@@ -30,6 +30,13 @@ Part of team developing algorithm to optimally bid in the electricity market. Th
 
 **Presentation Link-** [Google Drive Link](https://drive.google.com/file/d/1S3Vt6gE94TQwfxDJ-GuqWneZKu-hwIrn/view?usp=sharing)
 
+### Handwritten Language Translator&nbsp;
+<span style="color:red">Self Project, December 2017</span>
+
+Developed a Machine Learning model in scikit-learn to recognize handwritten letters. Implemented Neural Network with one hidden layer and achieved an average accuracy of 94%. Built a GUI in Python to take user input and process letters, converting it into NumPy array. Currently trained and deployed in Hindi and English, easily implementable to other languages.
+
+**Video Link-** [https://youtu.be/ykrvy-2GrEs](https://www.youtube.com/watch?v=IZBbm2qWLl0)
+
 
 ### SpamSlam: Prediction Market Model to prevent Spam E-mails&nbsp;
 <span style="color:red">InOut-2017, India's Biggest Community Hackathon, Bangalore, October 2017</span>

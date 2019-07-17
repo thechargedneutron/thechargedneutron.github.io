@@ -8,7 +8,7 @@ layout: page
 
 <p>I am extremely fascinated by Augmented Reality and its potential to transform the world around us. I have been trying to explore this area of research and development. Apart from this, I am also keen to explore more of Computer Architecture, Computer Vision and Signal Processing. I have always felt that inter-disciplanary research will lead us to marvellous technical innovations. As a part of my curriculum, I have acquired various technical skills and knowledge with great practical potential. On similar lines, I have applied these understanding of the subjects in my internships.</p>
 
-<p>To know more of what I do, check my <a href="{{ site.url }}/blog">Blog</a> , <a href="{{ site.url }}/projects">Projects</a> or <a href="{{ site.url }}/cv.pdf">Resume</a>.</p>
+<p>To know more of what I do, check my <a href="{{ site.url }}/blog">Blog</a> , <a href="{{ site.url }}/projects">Projects</a> or <a href="{{ site.url }}/CV_Kumar_Ashutosh.pdf">Resume</a>.</p>
 
 <!-- <h2>Skills</h2>
 
