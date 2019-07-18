@@ -17,23 +17,17 @@ externalLink: false
 year: year2019
 ---
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+### Motivation
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+To develop a fully functional Augmented Reality based Location Assistant.
 
----
 
-What has inside?
+### Work
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
+Planning and developing an AR based Location Assistant Application. Location and orientation is tracked using Global Positioning System (GPS) and Intertial sensors (Gyroscope, Linear Accelerometer). Both World Stabilized and Screen Stabilized 3D objects are augmented for information about the location. Also mentoring a freshman as part of the Open Source initiative of Web n Coding Club, IIT Bombay.
 
----
+### Under Development
 
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+This project is currently under development. 
+
+Expected date of completion 5th Aug 2019.
