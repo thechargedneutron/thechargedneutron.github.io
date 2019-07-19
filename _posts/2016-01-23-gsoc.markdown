@@ -2,7 +2,11 @@
 title: "Extended Visualization: Focus in GLSL"
 layout: post
 date: 2016-01-23 22:10
-tag: jekyll
+tag:
+- Medical
+- Reserach
+- GLSL
+- Development
 image: /assets/images/gsoc-logo.png
 headerImage: true
 projects: true
@@ -13,6 +17,7 @@ category: project
 author: kumarashutosh
 externalLink: false
 year: year2018
+timedescription: May'18 to Jul'18
 ---
 
 

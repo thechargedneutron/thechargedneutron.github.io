@@ -2,7 +2,11 @@
 title: "Discriminative Localization in Medical Images"
 layout: post
 date: 2016-01-23 22:10
-tag: jekyll
+tag:
+- Medical
+- Reserach
+- Vision
+- ML
 image: /assets/images/iitb-logo.jpg
 headerImage: true
 projects: true
@@ -13,6 +17,7 @@ category: project
 author: kumarashutosh
 externalLink: false
 year: year2018
+timedescription: Jan'18 to May'18
 ---
 
 ## Introduction

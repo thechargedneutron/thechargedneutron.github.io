@@ -6,6 +6,7 @@ tag:
 - Processor Design
 - Electrical
 - Hardware
+- Course
 image: /assets/images/iitb-logo.jpg
 headerImage: true
 projects: true
@@ -16,6 +17,7 @@ category: project
 author: kumarashutosh
 externalLink: false
 year: year2018
+timedescription: Jul'19 to Nov'19
 ---
 
 ## Introduction

@@ -6,6 +6,7 @@ tag:
 - Analog
 - Electrical
 - Hardware
+- Course
 image: /assets/images/iitb-logo.jpg
 headerImage: true
 projects: true
@@ -16,6 +17,7 @@ category: project
 author: kumarashutosh
 externalLink: false
 year: year2019
+timedescription: Jan'19 to May'19
 ---
 
 ### Documentation

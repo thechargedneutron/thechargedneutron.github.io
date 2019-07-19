@@ -5,16 +5,19 @@ date: 2016-01-23 22:10
 tag:
 - AR/VR
 - Development
+- Hardware
+- Self
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 subtitle: Self Project
-description: Testing various Keyboard designs using Leap Motion Controller. The developed Keyboard can be used in AR/VR with Head Mounted Displays (HMDs) as well as with Personal Computers.
+description: Tested various Keyboard designs using Leap Motion Controller. The developed Keyboard can be used in AR/VR with Head Mounted Displays (HMDs) as well as with Personal Computers.
 category: project
 author: kumarashutosh
 externalLink: false
 year: year2019
+timedescription: May'19
 ---
 
 ## Introduction

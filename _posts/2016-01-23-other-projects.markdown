@@ -48,7 +48,7 @@ Secured first position in Blockchain category, sponsored by Gnosis. Developed a 
 ### Universal Sensor Signal Conditioning&nbsp;
 <span style="color:red">Analog Lab, Spring 2018</span>
 
-Built a circuit to condition a signal into ADC readable format irrespective of source, input range and bandwidth. Designed a multipurpose and re-configurable circuit compatible with DSPs, FPGA and micro-controllers. Also built and additional 4th order Butterworth Filter to prevent aliasing whose cutoff frequency can be changed using switches.
+Built a circuit to condition a signal into ADC readable format irrespective of source, input range and bandwidth. Designed a multipurpose and re-configurable circuit compatible with DSPs, FPGA and micro-controllers. Also built an additional 4th order Butterworth Filter to prevent aliasing whose cutoff frequency can be changed using switches.
 
 **Presentation Link-** [Google Drive Link](https://drive.google.com/file/d/1MpLVVJn2aGhYvitWBFmI6xdY_ioPBEQD/view?usp=sharing)
 

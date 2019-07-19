@@ -5,6 +5,7 @@ date: 2016-01-23 22:10
 tag:
 - AR/VR
 - Development
+- Self
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
@@ -15,6 +16,7 @@ category: project
 author: kumarashutosh
 externalLink: false
 year: year2019
+timedescription: Jun'19 to Jul'19
 ---
 
 ### Motivation

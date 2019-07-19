@@ -2,7 +2,11 @@
 title: "Multi-layered analysis of Brain Networks"
 layout: post
 date: 2016-01-23 22:10
-tag: jekyll
+tag:
+- Medical
+- Reserach
+- EEG
+- Brain
 image: /assets/images/nus-logo.jpg
 headerImage: true
 projects: true
@@ -13,6 +17,7 @@ category: project
 author: kumarashutosh
 externalLink: false
 year: year2018
+timedescription: May'18 to Jul'18
 ---
 
 ## Introduction
@@ -21,7 +26,7 @@ I was selected as a research intern under Prof Anastasios Bezerianos and Prof Ni
 
 ## The Work
 
-Investigated novel approach of Multi-Layered Analysisin Brain Connectivity Patterns during Creative Ideation using EEG connectivity strengths.Obtained statistical significant differences between Convergent Thinking and Divergent Thinking at both nodal as well as global level on various graph metrics including Degree Sum,PageRank Centrality and Betweenness Centrality. Also obtained statistical significance on Multilayered Supra-Adjacency Matrix.
+Investigated novel approach of Multi-layered Analysis in Brain Connectivity Patterns during Creative Ideation using EEG connectivity strengths.Obtained statistical significant differences between Convergent Thinking and Divergent Thinking at both nodal as well as global level on various graph metrics including Degree Sum,PageRank Centrality and Betweenness Centrality. Also obtained statistical significance on Multilayered Supra-Adjacency Matrix.
 
 ## Publication
 

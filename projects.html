@@ -26,7 +26,7 @@ title: Projects
           {% if post.year == 'year2019' %}
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                    <aside>{{ post.timedescription }}</aside>
                     <h2 class="title"><span style="color:black;">{{ post.title }}</span></h2>
                 </a>
                 <p class="custom-one">
@@ -48,7 +48,7 @@ title: Projects
           {% if post.year == 'year2018' %}
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                    <aside>{{ post.timedescription }}</aside>
                     <h2 class="title"><span style="color:black;">{{ post.title }}</span></h2>
                 </a>
                 <p class="custom-one">
@@ -64,13 +64,13 @@ title: Projects
 </section>
 
 <section class="list">
-    <span style="font-size: x-large;font-family:cursive;"><b></b></span>
+    <span style="font-size: x-large;font-family:cursive;"><b>Archive</b></span>
     {% for post in site.posts %}
         {% if post.projects %}
           {% if post.year == 'year2017' %}
             <div class="item {% if post.star %}star{% endif %}">
                 <a class="url" href="{% if post.externalLink %}{{ post.externalLink }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">
-                    <aside><time datetime="{{ post.date | date:"%d-%m-%Y" }}">{{ post.date | date: "%b %d %Y" }}</time></aside>
+                    <aside>{{ post.timedescription }}</aside>
                     <h2 class="title"><span style="color:black;">{{ post.title }}</span></h2>
                 </a>
                 <p class="custom-one">
