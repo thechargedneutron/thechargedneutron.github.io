@@ -18,8 +18,7 @@ My thought on how Time Travel can actually be a reality and indeed we might be d
 
 ## Time Travel
 
-The protagonist of the movie Interstellar goes into a five-dimensional space and passes on a cryptic message to her daughter. Do we also have the power to travel time and gain a broader knowledge of what is coming towards us, and possibly avert the dangers? It looks like a trivial NO. But who knows, we may not be intelligent enough to perceive our ability to do so.
-This excellent short movie starring Nassurudin Shah also makes me more inclined to believe what I am going to claim in the 
+The protagonist of the movie [Interstellar](https://www.imdb.com/title/tt0816692/) goes into a five-dimensional space and passes on a cryptic message to her daughter. Do we also have the power to travel time and gain a broader knowledge of what is coming towards us, and possibly avert the dangers? It looks like a trivial NO. But who knows, we may not be intelligent enough to perceive our ability to do so. [This](https://www.youtube.com/watch?v=23KufSqo6cQ) excellent short movie starring Nassurudin Shah also makes me more inclined to believe what I am going to claim in the 
 forthcoming statements.
 
 Do you remember the older man you helped cross the road yesterday? Or the young man who you saw crying beside the street? Maybe
