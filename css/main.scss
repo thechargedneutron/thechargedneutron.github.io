@@ -25,3 +25,19 @@
 @import "pages/tags";
 @import "pages/archive";
 @import "pages/post";
+
+/*.table.cover{
+	background-image:url('../img/venice.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}*/
+
+#content-desktop {display: block;}
+#content-mobile {display: none;}
+
+@media screen and (max-width: 768px) {
+
+#content-desktop {display: none;}
+#content-mobile {display: block;}
+
+}
