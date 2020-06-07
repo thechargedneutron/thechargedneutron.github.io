@@ -5,7 +5,7 @@
 #
 title: thechargedneutron - webpage
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: My personal webpage.
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -37,7 +37,7 @@ owner:
   avatar: webpage_dp.jpg
   job: "Student"
   bio: "i code. i debug. i code."
-  email:
+  email: kumar.ashutosh.ee[AT]gmail.com
   disqus-shortname:
   twitter: chargedneutron_
   facebook: kumarashutosh0
@@ -50,7 +50,7 @@ owner:
   bing-verify:
   github: thechargedneutron
   gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: 7841612/thechargedneutron #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: kumar-ashutosh-07
   skype: #username
   xing: #username
