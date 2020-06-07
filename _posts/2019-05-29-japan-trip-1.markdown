@@ -10,7 +10,7 @@ tag:
 category: blog-travel
 <!-- author: kumarashutosh -->
 description: Good times in the land of rising sun
-excerpt: "Part 1 of my weekend trips in Japan. Details my experience at Tokyo Skytree, Ueno Park, Sumeda Acquarium, Tokyo Tower, Rainbow bridge and, Kamakura"
+excerpt: "Part 1 of my weekend trips in Japan. Details my experience at Tokyo Skytree, Ueno Park, Sumeda Aquarium, Tokyo Tower, Rainbow bridge, and Kamakura"
 image:
   feature: "kamakura.JPG"
   credit: Kamakura, Japan
