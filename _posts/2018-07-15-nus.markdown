@@ -1,0 +1,36 @@
+---
+title: "Multi-layered analysis of Brain Networks"
+layout: post
+<!-- date: 2016-01-23 22:10 -->
+tag:
+- Medical
+- Reserach
+- EEG
+- Brain
+image: /assets/images/nus-logo.jpg
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+subtitle: Research Internship under Prof. A. Bezerianos and Prof Nitish Thakor, NUS Singapore
+description: Investigated Brain Connectivity Patterns during Creative thinking. Also obtained statistically significant differences in brain connvectivity during convergent and divergent thinking.
+category: project
+excerpt: "I was selected as a research intern under Prof Anastasios Bezerianos and Prof Nitish Thakor, at SINAPSE (Singapore Institute for Neurotechnology), at NUS (National University of Singapore). I worked in eastablishing brain connectivity patterns during creative thinking. I explored how the EEG (Electroencephelogram) brain pattern changes during creative thinking and established statistical differences between the two states of mind."
+<!-- author: kumarashutosh -->
+externalLink: false
+year: year2018
+timedescription: May'18 to Jul'18
+---
+
+## Introduction
+
+I was selected as a research intern under Prof Anastasios Bezerianos and Prof Nitish Thakor, at SINAPSE (Singapore Institute for Neurotechnology), at NUS (National University of Singapore). I worked in eastablishing brain connectivity patterns during creative thinking. I explored how the EEG (Electroencephelogram) brain pattern changes during creative thinking and established statistical differences between the two states of mind.
+
+## The Work
+
+Investigated novel approach of Multi-layered Analysis in Brain Connectivity Patterns during Creative Ideation using EEG connectivity strengths.Obtained statistical significant differences between Convergent Thinking and Divergent Thinking at both nodal as well as global level on various graph metrics including Degree Sum,PageRank Centrality and Betweenness Centrality. Also obtained statistical significance on Multilayered Supra-Adjacency Matrix.
+
+## Publication
+
+The work done during my Internship period at SINAPSE, NUS was published at the *International Conference on Brain Informatics* held from Dec 7-9, 2018 at Texas, US.
+
+An online copy of the publication can be found [here](https://link.springer.com/chapter/10.1007/978-3-030-05587-5_28).

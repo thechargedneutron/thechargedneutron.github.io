@@ -1,0 +1,36 @@
+---
+title: "Augmented Reality Chess Game - ARChess"
+layout: post
+<!-- date: 2016-01-23 22:10 -->
+tag:
+- AR/VR
+- Development
+- Self
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+subtitle: Self Project (Under Development)
+description: A fully functional Augmented Reality Chess Game with multiple board and player designs. Attempting to make a fully functional end user Android application.
+category: project
+<!-- author: kumarashutosh -->
+excerpt: "The aim of the project is to develop a fully functional Augmented Reality based Chess game application."
+externalLink: false
+year: year2019
+timedescription: Jun'19 to Jul'19
+---
+
+### Motivation
+
+To develop a fully functional Augmented Reality based Chess game application.
+
+
+### Work
+
+Developing an Android Augmented Reality based Chess Game Application. Also mentoring a freshman as part of the Open Source Initiative of Web n Coding Club, IIT Bombay. Designing the 3D models of Game Elements in Blender - a 3D modelling tool. Using Vuforia AR-SDK in Unity Editor for the gameplay to achieve the animation and gameplay.
+
+### Under Development
+
+This project is currently under development. 
+
+Expected date of completion 5th Aug 2019.
