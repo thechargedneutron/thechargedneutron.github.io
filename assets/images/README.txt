@@ -1,0 +1,1 @@
+Use https://bulkresizephotos.com/ to set the londer dimension size to 2000 pixels to match with the current set of images

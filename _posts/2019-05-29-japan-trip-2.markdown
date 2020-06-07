@@ -21,7 +21,7 @@ image:
 
 My first blog post was for the first two weeks. In this blog I try to list down my adventures in the next three weeks of my stay in Japan.
 
-### <span style="color:red">FujiQ Highlands (Saturday, Week 3)</span>
+## FujiQ Highlands (Saturday, Week 3)
 
 Situated at the footsteps of Mt. Fuji, this amusement park offers intense thrill and screams. The rides here are probably the best one can get in a single day. The "screamer" rides pretty much lives up to their name. The roller coasters take you through all the ups and downs possible.
 
@@ -49,12 +49,16 @@ Apart from these four important rides, we had a lot of other relaxing rides and 
 
 We returned to our respective residence in the Highway bus we had bought tickets for. We all were very exhausted after a truly adventourous day.
 
-<p>
+<!-- <p>
 <img src="/assets/images/dododonpa.jpg" width="400"> <img src="/assets/images/fujiyama.jpg" width="400"> <br>
 <em> (Left) The super fast Do-dodonpa ride. (Right) The King of coasters - Fujiyama</em>
-</p>
+</p> -->
 
-### <span style="color:red">Odaiba - High-Tech Entertainment Hub (Sunday, Week 3)</span>
+![alt](/assets/images/dododonpa.jpg) | ![alt](/assets/images/fujiyama.jpg)
+
+<em> (Left) The super fast Do-dodonpa ride. (Right) The King of coasters - Fujiyama</em>
+
+## Odaiba - High-Tech Entertainment Hub (Sunday, Week 3)
 
 Visiting Teamlabs was the prime motivation to spend a day in Odaiba - the high-tech entertainment hub of Tokyo.
 
@@ -66,20 +70,20 @@ Visiting this grand Toyota Showroom was never in the predecided to-do list, but 
 
 Teamlabs is a very famous Digital Art Show with tones of LEDs and light effects into place. I was pretty impressed by the concept. They call their art "Borderless" - having no boundaries, and hence, they do not provide a fixed map of the place. It is upon the visitor to explore the art works all around. We spent a very good three hours in this excellent digital art center. The place is divided into variety of arts. 
 
-##### Borderless
-
-Test
-
 #### Statue of Liberty
 
 Yes! You read it right. There is a replica of The Statue of Liberty in Tokyo Bay. There's a good promenade on the way to this statue. With cool breeze coming from the sea, it was an evening well spent.
 
-<p>
+<!-- <p>
 <img src="/assets/images/teamlabs-my-pic.png" height="500"> <img src="/assets/images/odaiba-my-pic.png" height="500"> <br>
 <em> (Left) Immersed in this borderless art (Right) Statue of Liberty, the rainbow bridge and the promenade</em>
-</p>
+</p> -->
 
-### <span style="color:red">Akihabara - The Electric Town (Saturday, Week 4)</span>
+![alt](/assets/images/teamlabs-my-pic.png) | ![alt](/assets/images/odaiba-my-pic.png)
+
+<em> (Left) Immersed in this borderless art (Right) Statue of Liberty, the rainbow bridge and the promenade</em>
+
+## Akihabara - The Electric Town (Saturday, Week 4)
 
 #### Yodobashi-Akiba
 
@@ -95,12 +99,16 @@ Before having the food, the customers are maid to sing a slogan and then begin t
 
 Another shopping building, famous for soveneirs and gift, is located in the heart of Akihabara. I found the prices in this shop reasonable and I loosened my pocket in exchange for a few items.
 
-<p>
+<!-- <p>
 <img src="/assets/images/maid-my-pic.png" height="500"> <img src="/assets/images/maid-coffee.png" height="500"> <br>
 <em> (Left) At @home maid cafe. (Right) Rabbit drawn on the coffee.</em>
-</p>
+</p> -->
 
-### <span style="color:red">Shinjuku - once again (Sunday, Week 4)</span>
+![alt](/assets/images//maid-my-pic.png) | ![alt](/assets/images/maid-coffee.png)
+
+<em> (Left) At @home maid cafe. (Right) Rabbit drawn on the coffee.</em>
+
+## Shinjuku - once again (Sunday, Week 4)
 
 It was second of my many visits to Shinjuku.
 
@@ -116,12 +124,16 @@ Uniqlo is a very famous clothing brand in Japan and Bic Camera is another big el
 
 Rest of the day was spent looking around for good clothes at affordable rates. Uniqlo offeres good amount of items on Sale. There was a big collection of T-shirts at Sale, all for 500¥ - which is quite cheap compared to what we get in India. Hence, I bought as many as two t-shirts. Apart from that, a bought a couple of chocolate packets from Bic Camera (yes they sell chocolate and liquors too) for my home as a soveneir.
 
-<p>
+<!-- <p>
 <img src="/assets/images/gyoen-bridge.jpg" width="400"> <img src="/assets/images/gyoen-my-pic.jpg" width="400"> <br>
 <em> (Left) One of the many views of this beautiful garden. (Right) The color of flower matches the color of my shirt :) </em>
-</p>
+</p> -->
 
-### <span style="color:red">Lake Kawaguchigo, at the foot of Mt. Fuji (Saturday, Week 5)</span>
+![alt](/assets/images/gyoen-bridge.jpg) | ![alt](/assets/images/gyoen-my-pic.jpg)
+
+<em> (Left) One of the many views of this beautiful garden. (Right) The color of flower matches the color of my shirt :) </em>
+
+## Lake Kawaguchigo, at the foot of Mt. Fuji (Saturday, Week 5)
 
 Lake Kawaguchigo is in the Yamanashi Prefecture, and very close to FujiQ highland I visited the other weekend. I was familiar with getting the tickets to Kawaguchigo Station, hence the booking was an ease. In addition to this, we followed [this](https://trulytokyo.com/a-day-trip-to-the-mt-fuji-area-lake-kawaguchiko/) itinerary, which covers all important places in the area. But we did something exciting - full day cycling around this area.
 
@@ -131,12 +143,16 @@ We covered around 25km in the whole day and covered places like KachiKachi Ropew
 
 Returned to my residence and had stomach full of Indian food at a restaurant. Best day undoubtedly. Period.
 
-<p>
+<!-- <p>
 <img src="/assets/images/kawa-me.jpg" width="400"> <img src="/assets/images/kawa-bridge.jpg" width="400"> <br>
 <em> (Left) Beautiful trail along the lake. (Right) Strong winds and freezing raindrops.</em>
-</p>
+</p> -->
 
-### <span style="color:red">Yokohama, the second largest city of Japan (Sunday, Week 5)</span>
+![alt](/assets/images/kawa-me.jpg) | ![alt](/assets/images/kawa-bridge.jpg)
+
+<em> (Left) Beautiful trail along the lake. (Right) Strong winds and freezing raindrops.</em>
+
+## Yokohama, the second largest city of Japan (Sunday, Week 5)
 
 Yokohama is in Kanagawa prefecture, and how could I live in Yokohama and not go there.
 
@@ -152,10 +168,14 @@ At a walking distance from the Chinatown, we spotted the Yokohama park and soon 
 
 This was an exciting end to the day. All the expected was a few different type of Ramen in display and a couple of options to choose from. And it was more or less the same thing just after the entrance. Books about history of Ramen and its evolution was in display. We were told that we can order and eat ramen on the two floors in the basement. This is where the fun began. As soon as I entered the museum, I was startled by the view. The restaurent complex was designed as an old fashioned Japanese Colony with homes all around. There was a really old television - in working condition. I spent quarter of an hour just roaming around and figuring out things. An old fasined scooter, tradional entertainers, old stlyed homes with cloths hanging from the balcony, beautifully made sky above the head - all of them were beautiful. At the end of it, I ordered Miso Ramen and satisfied my empty stomach. The ramen was not extra ordinary, but the view definitely compensated for that.
 
-<p>
+<!-- <p>
 <img src="/assets/images/chinatown.jpg" width="400"> <img src="/assets/images/ramen-museum.jpg" width="400"> <br>
 <em> (Left) The Chinatown, Yokohama. (Right) Old styled Ramen Museum. All of the background is artificial and only a closed basement floor in reality.</em>
-</p>
+</p> -->
+
+![alt](/assets/images/chinatown.jpg) | ![alt](/assets/images/ramen-museum.jpg)
+
+<em> (Left) The Chinatown, Yokohama. (Right) Old styled Ramen Museum. All of the background is artificial and only a closed basement floor in reality.</em>
 
 So this was my adventures for the last three weekends. Two more to go!
 
