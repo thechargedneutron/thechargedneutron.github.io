@@ -1,7 +1,7 @@
 ---
 title: "Living in Japan"
 layout: post
-date: 2019-05-28 22:44
+<!-- date: 2019-05-28 22:44 -->
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:

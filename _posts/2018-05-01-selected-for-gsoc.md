@@ -1,7 +1,7 @@
 ---
 title: "Selected for GSoC - 2018"
 layout: post
-date: 2018-05-01 22:44
+<!-- date: 2018-05-01 22:44 -->
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:

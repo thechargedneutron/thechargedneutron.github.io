@@ -1,7 +1,7 @@
 ---
 title: "My First Blog"
 layout: post
-date: 2017-06-08 22:44
+<!-- date: 2017-06-08 22:44 -->
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:

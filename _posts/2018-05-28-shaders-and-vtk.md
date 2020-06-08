@@ -1,7 +1,7 @@
 ---
 title: "Interesting World of Shaders and VTK"
 layout: post
-date: 2018-05-28 22:44
+<!-- date: 2018-05-28 22:44 -->
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:

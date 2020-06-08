@@ -1,7 +1,7 @@
 ---
 title: "My Contributions to Scikit-Learn"
 layout: post
-date: 2017-09-05 22:44
+<!-- date: 2017-09-05 22:44 -->
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:

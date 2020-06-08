@@ -1,7 +1,7 @@
 ---
 title: "Do we already travel across time?"
 layout: post
-date: 2019-12-13 00:48
+<!-- date: 2019-12-13 00:48 -->
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:

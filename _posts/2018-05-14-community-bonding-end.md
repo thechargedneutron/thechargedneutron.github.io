@@ -1,7 +1,7 @@
 ---
 title: "End of Community Bonding Period"
 layout: post
-date: 2018-05-14 22:44
+<!-- date: 2018-05-14 22:44 -->
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:

@@ -1,7 +1,7 @@
 ---
 title: "The Untouched Paradise - Trip to Andaman Islands"
 layout: post
-date: 2018-12-24 22:44
+<!-- date: 2018-12-24 22:44 -->
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
