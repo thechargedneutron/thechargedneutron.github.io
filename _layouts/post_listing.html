@@ -9,7 +9,9 @@ layout: default
     <p class="post-meta">
     </p>
     <h4>
-      <a class="post-title">hi.</a>
+      <div style="margin-top:-15px;">
+        <a class="post-title">hi.</a>
+      </div>
       
     </h4>
 
@@ -34,7 +36,7 @@ layout: default
 
 <div id="content-desktop">
 
-  <div style="display:block; width:100%;">
+  <div style="display:block; width:100%; margin-top:-30px;">
     <div style="width:55%; float: left; display: inline-block;">
 
 
@@ -48,7 +50,7 @@ layout: default
       <div style="margin-top: -20px;">
         <h2> Updates </h2>
       </div>
-      <div style="height:370px;overflow:auto;">
+      <div style="height:350px;overflow:auto;">
         {% include updates.html %}
       </div>
 
@@ -57,7 +59,7 @@ layout: default
     <div style="width:45%; float: left; display: inline-block;">
       <!-- <h1 class="content-subhead" style="margin-bottom: 0pt;">Latest tweets</h1> -->
     <div style="overflow: hidden;">
-    <div style="margin-top: -18px;">
+    <div style="margin-top: -1px;">
             <a class="twitter-timeline" data-chrome="nofooter noborders noscrollbar" width="100%" height="400" data-dnt="true" href="https://twitter.com/chargedneutron_" data-widget-id="517767457646198784"><td>Tweets by @chargedneutron_</td></a>
   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
       <span style="height: 10px;">&nbsp;</span>
@@ -161,65 +163,92 @@ I am Kumar Ashutosh -->
 </div>
  -->
 
-<br>
-<br>
-<br>
 
-{% for post in site.posts %}
-<section class="post">
-  <header class="post-header">
-    <p class="post-meta">
-      <span class="post-date">
-        {{ post.date | date: "%-d %b %Y" | upcase }}
-      </span>
-      {% if post.categories.size > 0 %}
-      •
-      {% for cat in post.categories %}
-        <a class="post-cat" href="{{ site.url }}/categories/#{{ cat }}">{{ cat }}</a>
-        {% unless forloop.last %}
-        <span>/</span>
-        {% endunless %}
-      {% endfor %}
-      {% endif %}
-    </p>
-    <h4>
-      <a href="{{ site.url }}{{ post.url }}" class="post-title" title="{{ post.title | escape }}">{{ post.title }}</a>
-      {% if post.link %}
-      <a class="post-title-link" href="{{ post.link }}" target="_blank" title="{{ post.title | escape }}"><i class="fa fa-external-link"></i></a>
-      {% endif %}
-    </h4>
 
-    {% if post.author %}
-      {% assign author = site.data.authors[post.author] %}
-    {% else %}
-      {% assign author = site.owner %}
-    {% endif %}
 
-    </header>
 
-    {% if post.excerpt %}
-    <div class="post-description">
-      <p>
-        {{ post.excerpt }}
-      </p>
-    </div>
-    {% endif %}
 
-    {% if post.image.feature %}
-    <div class="post-image-feature">
-      <img src=
-      {% if post.image.feature contains 'http' %}
-      "{{ post.image.feature }}"
-      {% else %}
-      "{{ site.url }}/img/{{ post.image.feature }}"
-      {% endif %}
-      alt="{{ post.title | escape }} feature image">
 
-      {% if post.image.credit %}
-      <span class="image-credit">Location: <a href="{{ post.image.creditlink }}">{{ post.image.credit }}</a></span>
-      {% endif %}
-    </div><!-- /.image-wrap -->
-    {% endif %}
+<style>
 
-</section>
-{% endfor %}
+/* Set height of body and the document to 100% */
+
+.tabpane {
+  margin-left: 27.5%;
+}
+
+/* Style tab links */
+.tablink {
+  background-color: #fff;
+  color: #F36170;
+  float: left;
+  font-weight: bold;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 15%;
+}
+
+.tablink:hover {
+  background-color: #DDD;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  color: black;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+}
+
+a {
+  color: #F36170;
+}
+
+a:hover {
+  color: #F36170;
+}
+
+</style>
+<body>
+
+<div id="ButtonPane" class="tabpane">
+  <button class="tablink" onclick="openPage('Home', this, '#DDD')"id="defaultOpen">Projects</button>
+  <button class="tablink" onclick="openPage('News', this, '#DDD')"id="secondOpen">Technical</button>
+  <button class="tablink" onclick="openPage('Contact', this, '#DDD')"id="thirdOpen">Travel</button>
+</div>
+
+<div id="Home" class="tabcontent">
+  {% include project_list.html %}
+</div>
+
+<div id="News" class="tabcontent">
+  {% include tech_blog_list.html %}
+</div>
+
+<div id="Contact" class="tabcontent">
+  {% include travel_list.html %}
+</div>
+
+<script>
+function openPage(pageName,elmnt,color) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].style.backgroundColor = "";
+  }
+  document.getElementById(pageName).style.display = "block";
+  elmnt.style.backgroundColor = color;
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+   
+</body>
