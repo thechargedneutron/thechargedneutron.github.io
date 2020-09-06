@@ -1,6 +1,13 @@
+<style>
+img {
+  float: left;
+}
+</style>
+
 {% for post in site.posts %}
   {% for cat in post.categories %}
     {% if cat == "project" %}
+    <p><img src="{{ site.url }}/img/{{ post.image.feature }}" style="width:170px;height:170px;margin-right:15px;">
       <section class="post">
         <header class="post-header">
           <p class="post-meta">
@@ -40,7 +47,7 @@
           </div>
           {% endif %}
 
-          {% if post.image.feature %}
+          <!-- {% if post.image.feature %}
           <div class="post-image-feature">
             <img src=
             {% if post.image.feature contains 'http' %}
@@ -53,8 +60,8 @@
             {% if post.image.credit %}
             <span class="image-credit">Location: <a href="{{ post.image.creditlink }}">{{ post.image.credit }}</a></span>
             {% endif %}
-          </div><!-- /.image-wrap -->
-          {% endif %}
+          </div> <!-- /.image-wrap -->
+          <!--{% endif %} -->
 
       </section>
     {% endif %}

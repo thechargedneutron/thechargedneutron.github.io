@@ -14,6 +14,8 @@ category: project
 excerpt: "Lists down some other projects done as part of my curriculum at IIT Bombay. The topics varies from signal processing, online learning to electronics"
 externalLink: false
 year: year2017
+image:
+  feature: "chinatown.jpg"
 ---
 
 ## Vowel Detection using Digital Signal Processing&nbsp;
