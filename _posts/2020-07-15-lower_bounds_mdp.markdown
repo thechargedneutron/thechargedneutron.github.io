@@ -1,5 +1,5 @@
 ---
-title: "Hardware Performance Analysis of Mobile-Based Augmented Reality Systems"
+title: "Lower Bounds for Policy Iteration on Multi-action MDPs"
 layout: post
 <!-- date: 2016-01-23 22:10 -->
 tag: jekyll
@@ -11,14 +11,14 @@ subtitle: Includes projects prior to May 2018
 description: 
 category: publication
 <!-- author: kumarashutosh -->
-excerpt: "IEEE Conference on Computational Performance Evaluation (ComPE), 2nd - 4th July 2020, Online Conference"
-excerpt2: Kumar Ashutosh
-paper_link: https://ieeexplore.ieee.org/document/9200079/
-presentation_link: docs/compe_presentation.pdf
+excerpt: "IEEE Conference on Decision and Control (CDC), 8th - 11th December 2020, Online Conference"
+excerpt2: Kumar Ashutosh, Sarthak Consul, Bhishma Dedhia, Parthasarathi Khirwadkar, Sahil Shah, and Shivaram Kalyanakrishnan
+paper_link: https://arxiv.org/abs/2009.07842
+code_link: https://github.com/SConsul/PI_Lower_Bound
 externalLink: false
 year: year2017
 image:
-  feature: "nehu_paper.png"
+  feature: "mdp.PNG"
 ---
 
 ## Vowel Detection using Digital Signal Processing&nbsp;
