@@ -2,7 +2,7 @@
 title: "Lower Bounds for Policy Iteration on Multi-action MDPs"
 layout: post
 <!-- date: 2016-01-23 22:10 -->
-tag: jekyll
+tag: paper, mdp, theory
 image: /assets/images/nus-logo.jpg
 headerImage: false
 projects: true
@@ -21,60 +21,53 @@ image:
   feature: "mdp.PNG"
 ---
 
-## Vowel Detection using Digital Signal Processing&nbsp;
-<span style="color:red">Digital Signal Processing, Spring 2019</span>
+### Paper&nbsp;
 
-Implemented Real Time Vowel Classification on Digital Signal Processor. Performed Fast Fourier Transform (FFT) on a moving window and analyzed the frequency components and concluded the vowel in the voice. The algorithm is robust to both male and female voice. The two vowels were mapped to two LEDs present on the DSP.
+[https://arxiv.org/abs/2009.07842](https://arxiv.org/abs/2009.07842)
 
-**Video Link-** [https://youtu.be/ykrvy-2GrEs](https://youtu.be/ykrvy-2GrEs)
+Please cite as:
 
+```bibtex
+@misc{ashutosh2020lower,
+      title={Lower Bounds for Policy Iteration on Multi-action MDPs}, 
+      author={Kumar Ashutosh and Sarthak Consul and Bhishma Dedhia and Parthasarathi Khirwadkar and Sahil Shah and Shivaram Kalyanakrishnan},
+      year={2020},
+      eprint={2009.07842},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
 
-## Optimal Bidding in Electricity Market&nbsp;
-<span style="color:red">Inter-IIT Techincal Meet, IIT Madras, January 2018</span>
+### Motivation&nbsp;
 
-Part of team developing algorithm to optimally bid in the electricity market. The aim is to optimize the cost and the bid quantity, subjected to various constraints. The bidding parameters are predicted using developed models and machine learning algorithms. The optimal bid quantity is balanced between different sources.
+We took this problem initially as part of an elective course [CS 747 - Fundamentals of Intelligent and Learning Agents](https://www.cse.iitb.ac.in/~shivaram/teaching/old/cs747-a2019/) and later continued working on the problem and eventually submitted to IEEE CDC 2020. The project was interesting because it involved rigorous understanding of both MDP and Policy Iterations. We came up with several hypothesis and then spent time verifying them through simulations and theoretical proofs. We came up with Lower Bounds for several versions of Policy Iterations. Firstly, we showed the lower bound for generic n-state, k-action Simple PI. Subsequently, we extended the construction to accomodate Randomized PI followed by Howard PI (two variations) and finally devised a policy iteration algorithm which has a very strong lower bounds. Each of them is described in subsequent sections.
 
-**Presentation Link-** [Google Drive Link](https://drive.google.com/file/d/1S3Vt6gE94TQwfxDJ-GuqWneZKu-hwIrn/view?usp=sharing)
+### Simple Policy Iteration
 
-## Handwritten Language Translator&nbsp;
-<span style="color:red">Self Project, December 2017</span>
+An earlier work by Melekopoglou and Condon showed a lower bound of $2^(n-1)$ for a n-state 2-action MDP. We drew motivation from that MDP and tried coming up with extensions show that the lower bound if multiplicative in the number of actions. This is particularly challenging because we need to maintain a strict order of Value functions in order make the algorithm traverse a lot of states. In addition, the number of parameters here is also high and using a for loop to come up with such MDP is infeasible.
 
-Developed a Machine Learning model in scikit-learn to recognize handwritten letters. Implemented Neural Network with one hidden layer and achieved an average accuracy of 94%. Built a GUI in Python to take user input and process letters, converting it into NumPy array. Currently trained and deployed in Hindi and English, easily implementable to other languages.
+![SPI](/assets/images/spi.PNG)
 
-**Video Link-** [https://youtu.be/ykrvy-2GrEs](https://www.youtube.com/watch?v=IZBbm2qWLl0)
+The MDP above takes O(k.2^n) iterations starting from an all 0 state. Setting n=2 and epsilon=0 gives back the construction shown by Melekopoglou and Condon. We show through simulations and proofs that there are feasible values of epsilon (for eg. 2^(-n)) such that all the constraints are satisfied. This MDP also has the advantage that it is easy to incorporate random action selection in this MDP. The resulting lower bound is O(log(k) 2^n). Detailed proof and simulation is available in the paper and the github repository, respectively.
 
+### Howard's Policy Iteration
 
-## SpamSlam: Prediction Market Model to prevent Spam E-mails&nbsp;
-<span style="color:red">InOut-2017, India's Biggest Community Hackathon, Bangalore, October 2017</span>
+After establishing lower bounds for Simple PI, we turned our focus to more sophisticated Howard PI. As per the Howard PI, "all" the improvable states are switched. In this construction, we assume the chosen action is heuristic and not based on Q matrix. For this part, we took inspiration from a similar work done to minimize the mean cost cycle for directed graphs by Hansen and Zwick. The final construction is much simpler than the construction proposed by them.
 
-Secured first position in Blockchain category, sponsored by Gnosis. Developed a model which uses the concepts of predictive market to decrease spam by selectively monetizing emails. The idea was implemented by using Gnosis API and Django. Also, an AI agent was built to serve as the referee in this game of prediction market.
+![HPI](/assets/images/hpi.PNG)
 
-**Presentation Link-** [Google Drive Link](https://drive.google.com/file/d/1qnAoTJIXpKzBIt_iQZ4elEilVmvvcNxn/view?usp=sharing)
+In this construction we ensure that at any point, only one state is improvable at a time. This constraint ensures that the policy trajectory is such that a maximum number of states are traversed. Again, a randomized version of this PI is simple and the corresponding lower bound is O(log(k) n) compared to O(kn) for deterministic Howard PI.
 
-## Universal Sensor Signal Conditioning&nbsp;
-<span style="color:red">Analog Lab, Spring 2018</span>
+### Trajectory of O(k^(0.5n))
 
-Built a circuit to condition a signal into ADC readable format irrespective of source, input range and bandwidth. Designed a multipurpose and re-configurable circuit compatible with DSPs, FPGA and micro-controllers. Also built an additional 4th order Butterworth Filter to prevent aliasing whose cutoff frequency can be changed using switches.
+Any PI will have a trivial upper bound of k^n. The aim of the study of lower bounds is to tighten this gap between lower and upper bounds. Next, we try to tighten this gap by proposing a family of MDP and PI to achieve a lower bound of O(k^(0.5n)). The basic idea is to make the transition traverse all possible combinations of exactly (n/2) states. There are (n/2) additional states which we call as "dummy states". Therefore the lower bound is of the order O(k^(0.5n)) which is a very strong lower bound considering the trivial upper bound of k^n.
 
-**Presentation Link-** [Google Drive Link](https://drive.google.com/file/d/1MpLVVJn2aGhYvitWBFmI6xdY_ioPBEQD/view?usp=sharing)
+![API](/assets/images/api.PNG)
 
+### Conclusion
 
-## StarBox: Arduino Controlled 8x8x8 LED Cube&nbsp;
-<span style="color:red">Institute Technical Summer Project, Summer 2017</span>
+Through this work, we have tightened the gap between the lower bound and the upper bound. The study of lower bound is particulary crucial in understanding the "worst-case" performance of an algorithm. Future work includes finding similar lower bounds for more sophisticated Policy Iteration algorithms and further tightening the gap between the lower and the upper bounds.
 
-Developed an 8x8x8 LED Cube using Shift Registers and MOSFETs. Also, programmed an Arduino to systematically control blinking of LEDs. Displayed letters, patterns and bar and waves of music on the Cube.
+### Acknowledgement
 
-
-
-## Reaction Game using Digital Logic Circuit&nbsp;
-<span style="color:red">Digital Circuits Lab, Spring 2018</span>
-
-Built a game in VHDL on CPLD board that displays reaction time of the player on a LCD screen. Modelled the game as a Finite State Mealy Machine using the concepts of Register Transfer Level (RTL) for the operation of LEDs and push-buttons, and to display the player’s score on an LCD panel.
-
-
-## Two Bit Multiplier using Digital ICs&nbsp;
-<span style="color:red">Introduction to Electronics, Spring 2017</span>
-
-Developed a 4-bit Multiplier using the conventional shift and add algorithm. The algorithm was implemented without the use of any micro controller, thus using only appropriate logic gates and adders. Minimized the wires in the circuit and prepared the final working model on a breadboard.
-
-**Working Demo -** [https://www.youtube.com/watch?v=aQzDZA82Cog](https://www.youtube.com/watch?v=aQzDZA82Cog)
+I thank Professor Shivaram for his constant guidance and help throughout the ideation stage and paper-writing stage. Lastly, thankful to all the co-authors - Sarthak, Bhishma, Parth and Sahil. We did it guys!
