@@ -4,7 +4,7 @@ layout: post
 <!-- date: 2016-01-23 22:10 -->
 tag:
 - Medical
-- Reserach
+- Research
 - GLSL
 - Development
 image: /assets/images/gsoc-logo.png
