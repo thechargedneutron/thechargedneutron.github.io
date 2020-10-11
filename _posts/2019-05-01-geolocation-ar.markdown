@@ -35,5 +35,3 @@ Planning and developing an AR based Location Assistant Application. Location and
 ### Under Development
 
 This project is currently under development. 
-
-Expected date of completion 5th Aug 2019.
