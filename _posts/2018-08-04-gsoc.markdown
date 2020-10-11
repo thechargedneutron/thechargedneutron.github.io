@@ -22,6 +22,8 @@ I was selected in dipy - an open source organization in Medical Imaging. My ment
 
 The blog contains my overall experience as a GSoCer."
 timedescription: May'18 to Jul'18
+image:
+  feature: "gsoc.PNG"
 ---
 
 

@@ -12,12 +12,15 @@ projects: true
 hidden: true # don't count this post in blog pagination
 subtitle: Self Project (Under Development)
 description: A fully functional Augmented Reality Chess Game with multiple board and player designs. Attempting to make a fully functional end user Android application.
-category: project
+category: other-project
 <!-- author: kumarashutosh -->
 excerpt: "The aim of the project is to develop a fully functional Augmented Reality based Chess game application."
+excerpt2: STALLED. Done indepenently by Rishi Vanukuru
 externalLink: false
 year: year2019
 timedescription: Jun'19 to Jul'19
+image:
+  feature: "archess.jpeg"
 ---
 
 ### Motivation
@@ -29,8 +32,8 @@ To develop a fully functional Augmented Reality based Chess game application.
 
 Developing an Android Augmented Reality based Chess Game Application. Also mentoring a freshman as part of the Open Source Initiative of Web n Coding Club, IIT Bombay. Designing the 3D models of Game Elements in Blender - a 3D modelling tool. Using Vuforia AR-SDK in Unity Editor for the gameplay to achieve the animation and gameplay.
 
-### Under Development
+### Update
 
-This project is currently under development. 
+I pitched this idea in one of my talks at IIT Bombay and the project was later taken up and completed by [Rishi Vanukuru](https://rishivanukuru.com/) on his own.
 
-Expected date of completion 5th Aug 2019.
+This project can be seen [here](https://rishivanukuru.com/projects/artwo/). Please note that this awesome work is done entirely by him.

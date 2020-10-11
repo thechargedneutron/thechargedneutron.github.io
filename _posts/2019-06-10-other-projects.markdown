@@ -9,13 +9,13 @@ projects: true
 hidden: true # don't count this post in blog pagination
 subtitle: Includes projects prior to May 2018
 description: 
-category: project
+category: other-project
 <!-- author: kumarashutosh -->
 excerpt: "Lists down some other projects done as part of my curriculum at IIT Bombay. The topics varies from signal processing, online learning to electronics"
 externalLink: false
 year: year2017
 image:
-  feature: "chinatown.jpg"
+  feature: "starbox.PNG"
 ---
 
 ## Vowel Detection using Digital Signal Processing&nbsp;

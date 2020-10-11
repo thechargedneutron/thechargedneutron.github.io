@@ -19,6 +19,8 @@ excerpt: "Blog on Research and Development Project done under Prof Amit Sethi, I
 externalLink: false
 year: year2018
 timedescription: Jan'18 to May'18
+image:
+  feature: "discriminative-localization.PNG"
 ---
 
 ## Introduction

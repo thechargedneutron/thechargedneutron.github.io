@@ -19,6 +19,8 @@ excerpt: "This is one of my many hobby projects done this semester. It is aimed 
 externalLink: false
 year: year2019
 timedescription: May'19
+image:
+  feature: "leapmotion.png"
 ---
 
 ## Introduction

@@ -19,6 +19,8 @@ excerpt: "This project was done as a part of the Microprocessors course at IIT B
 externalLink: false
 year: year2018
 timedescription: Jul'19 to Nov'19
+image:
+  feature: "risc.PNG"
 ---
 
 ## Introduction

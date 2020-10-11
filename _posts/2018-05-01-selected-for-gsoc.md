@@ -9,7 +9,7 @@ tag:
 - PSF
 - Open Source
 - dipy
-category: blog
+category: blog-tech
 <!-- author: kumarashutosh -->
 excerpt: "Phew!!! Selected for GSoC-2018 :)"
 description: GSoC Selection!!

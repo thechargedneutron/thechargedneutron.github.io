@@ -19,6 +19,8 @@ excerpt: "I was selected as a research intern under Prof Anastasios Bezerianos a
 externalLink: false
 year: year2018
 timedescription: May'18 to Jul'18
+image:
+  feature: "nus.PNG"
 ---
 
 ## Introduction

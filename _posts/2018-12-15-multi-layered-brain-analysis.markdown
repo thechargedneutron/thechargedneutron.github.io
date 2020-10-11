@@ -2,7 +2,7 @@
 title: "A Multilayer Network Approach for Studying Creative Ideation from EEG"
 layout: post
 <!-- date: 2016-01-23 22:10 -->
-tag: jekyll
+tag: research, brain-networks
 image: /assets/images/nus-logo.jpg
 headerImage: false
 projects: true
@@ -20,60 +20,37 @@ image:
   feature: "nus_img.PNG"
 ---
 
-## Vowel Detection using Digital Signal Processing&nbsp;
-<span style="color:red">Digital Signal Processing, Spring 2019</span>
+### Paper
 
-Implemented Real Time Vowel Classification on Digital Signal Processor. Performed Fast Fourier Transform (FFT) on a moving window and analyzed the frequency components and concluded the vowel in the voice. The algorithm is robust to both male and female voice. The two vowels were mapped to two LEDs present on the DSP.
+[https://link.springer.com/chapter/10.1007/978-3-030-05587-5_28](https://link.springer.com/chapter/10.1007/978-3-030-05587-5_28)
 
-**Video Link-** [https://youtu.be/ykrvy-2GrEs](https://youtu.be/ykrvy-2GrEs)
+Please cite as
 
+```
+@InProceedings{10.1007/978-3-030-05587-5_28,
+author="Bose, Rohit and Ashutosh, Kumar and Li, Junhua and Dragomir, Andrei and Thakor, Nitish and Bezerianos, Anastasios",
+editor="Wang, Shouyi and Yamamoto, Vicky and Su, Jianzhong and Yang, Yang and Jones, Erick and Iasemidis, Leon and Mitchell, Tom",
+title="A Multilayer Network Approach for Studying Creative Ideation from EEG",
+booktitle="Brain Informatics",
+year="2018",
+publisher="Springer International Publishing",
+address="Cham",
+pages="294--303",
+isbn="978-3-030-05587-5"}
+```
 
-## Optimal Bidding in Electricity Market&nbsp;
-<span style="color:red">Inter-IIT Techincal Meet, IIT Madras, January 2018</span>
+### Introduction
 
-Part of team developing algorithm to optimally bid in the electricity market. The aim is to optimize the cost and the bid quantity, subjected to various constraints. The bidding parameters are predicted using developed models and machine learning algorithms. The optimal bid quantity is balanced between different sources.
+This work was done as part of my internship under Prof. Nitish Thakor at National University of Singapore (NUS) during Summer'18. Brain connectivity is a fairly involved task that researchers are keep to understand. This task is fairly complicated due to unavialability of much understanding of brain electrical signal. We, however, know some of the features of brain signal and those can be used to establish some correlation between the task at hand and the response from brain signals. In this work, we established a correlation between brain networks and creative thinking by people.
 
-**Presentation Link-** [Google Drive Link](https://drive.google.com/file/d/1S3Vt6gE94TQwfxDJ-GuqWneZKu-hwIrn/view?usp=sharing)
+### Experiment/Data Collection
 
-## Handwritten Language Translator&nbsp;
-<span style="color:red">Self Project, December 2017</span>
+To collect the data, volunteers were shown a word on the screen. They had two tasks - first to speak a use of the object written on the screen and the second task was to think of a creative way in which the same object can be used. For example, if brick is written on the screen, the subject needs to say that brick is used to build homes. For alternate usage (AU) example, they can say, for example, that brick can be used to stop vehicles from moving on its own and can be used as a stopper. These tasks were given with adequate rest and their EEG signals were continuously aquired.
 
-Developed a Machine Learning model in scikit-learn to recognize handwritten letters. Implemented Neural Network with one hidden layer and achieved an average accuracy of 94%. Built a GUI in Python to take user input and process letters, converting it into NumPy array. Currently trained and deployed in Hindi and English, easily implementable to other languages.
+### Data Analysis
 
-**Video Link-** [https://youtu.be/ykrvy-2GrEs](https://www.youtube.com/watch?v=IZBbm2qWLl0)
+After obtaining data for both object characterisation (OC) tasks and alternate usage (AU) tasks we study the correlation between brain connectivity between differnt electrode readings of EEG. We found statistical significant differences between AU and OC tasks on various graph metrics which signalled towards on increased brain connectivity during creative ideation.
 
+### Conclusion
 
-## SpamSlam: Prediction Market Model to prevent Spam E-mails&nbsp;
-<span style="color:red">InOut-2017, India's Biggest Community Hackathon, Bangalore, October 2017</span>
-
-Secured first position in Blockchain category, sponsored by Gnosis. Developed a model which uses the concepts of predictive market to decrease spam by selectively monetizing emails. The idea was implemented by using Gnosis API and Django. Also, an AI agent was built to serve as the referee in this game of prediction market.
-
-**Presentation Link-** [Google Drive Link](https://drive.google.com/file/d/1qnAoTJIXpKzBIt_iQZ4elEilVmvvcNxn/view?usp=sharing)
-
-## Universal Sensor Signal Conditioning&nbsp;
-<span style="color:red">Analog Lab, Spring 2018</span>
-
-Built a circuit to condition a signal into ADC readable format irrespective of source, input range and bandwidth. Designed a multipurpose and re-configurable circuit compatible with DSPs, FPGA and micro-controllers. Also built an additional 4th order Butterworth Filter to prevent aliasing whose cutoff frequency can be changed using switches.
-
-**Presentation Link-** [Google Drive Link](https://drive.google.com/file/d/1MpLVVJn2aGhYvitWBFmI6xdY_ioPBEQD/view?usp=sharing)
-
-
-## StarBox: Arduino Controlled 8x8x8 LED Cube&nbsp;
-<span style="color:red">Institute Technical Summer Project, Summer 2017</span>
-
-Developed an 8x8x8 LED Cube using Shift Registers and MOSFETs. Also, programmed an Arduino to systematically control blinking of LEDs. Displayed letters, patterns and bar and waves of music on the Cube.
-
-
-
-## Reaction Game using Digital Logic Circuit&nbsp;
-<span style="color:red">Digital Circuits Lab, Spring 2018</span>
-
-Built a game in VHDL on CPLD board that displays reaction time of the player on a LCD screen. Modelled the game as a Finite State Mealy Machine using the concepts of Register Transfer Level (RTL) for the operation of LEDs and push-buttons, and to display the player’s score on an LCD panel.
-
-
-## Two Bit Multiplier using Digital ICs&nbsp;
-<span style="color:red">Introduction to Electronics, Spring 2017</span>
-
-Developed a 4-bit Multiplier using the conventional shift and add algorithm. The algorithm was implemented without the use of any micro controller, thus using only appropriate logic gates and adders. Minimized the wires in the circuit and prepared the final working model on a breadboard.
-
-**Working Demo -** [https://www.youtube.com/watch?v=aQzDZA82Cog](https://www.youtube.com/watch?v=aQzDZA82Cog)
+This work gives a positive step in understaning brain signals and establishing connectivity patterns between different part of the brain.

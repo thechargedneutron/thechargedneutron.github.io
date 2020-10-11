@@ -8,7 +8,7 @@ tag:
 - Introduction
 - Blog
 - GitHub
-category: blog
+category: blog-thoughts
 excerpt: "This is my first blog. My curiosity to explore Jekyll pages instigated me to make a webpage of my own and host it on my Github profile. I would recommend all the readers to give it a try and make your own personal page. Please let me know if you find this blog attractive."
 <!-- author: kumarashutosh -->
 description: My very own page

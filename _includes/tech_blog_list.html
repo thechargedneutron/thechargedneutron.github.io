@@ -1,6 +1,6 @@
 {% for post in site.posts %}
   {% for cat in post.categories %}
-    {% if cat == "blog-tech" %}
+    {% if cat == "blog-tech" or cat == "blog-thoughts" %}
       <section class="post">
         <header class="post-header">
           <p class="post-meta">

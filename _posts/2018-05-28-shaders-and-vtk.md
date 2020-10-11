@@ -9,7 +9,7 @@ tag:
 - PSF
 - Open Source
 - dipy
-category: blog
+category: blog-tech
 <!-- author: kumarashutosh -->
 description: GSoC Mode On!!
 excerpt: "The last two weeks were full of fun. Sitting near my screen exploring various shaders was fun. With the help of Elef and Ranveer, I could do a lot of different examples and all this helped me build some really cool visualization examples (At least I was amazed :P ). In this blog,  I walk the reader through few things I achieved over the past two weeks."

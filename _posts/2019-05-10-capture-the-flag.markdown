@@ -18,6 +18,8 @@ externalLink: false
 year: year2019
 timedescription: Jan'19 to May'19
 excerpt: "This blog contains report of Research and Development project done in the supervision of Prof. Parag Chaudhuri, IIT Bombay. In this proect, I developed a novel AR-based table top game which fits into the terrian of the scene and adjusts the game object based on the markers. The characters can move in 3D world with correct spatial understanding."
+image:
+  feature: "capture-the-flag.PNG"
 ---
 
 ### Introduction

@@ -9,7 +9,7 @@ tag:
 - PSF
 - Open Source
 - dipy
-category: blog
+category: blog-tech
 excerpt: "Hey folks!!
 
 We have come to the end of the first stage of GSoC project, the Community Bonding Period. Official coding begins NOW!!"

@@ -19,6 +19,8 @@ excerpt: "In this blog, I include final report of the Electronic Design Lab (EDL
 externalLink: false
 year: year2019
 timedescription: Jan'19 to May'19
+image:
+  feature: "edl.PNG"
 ---
 
 ### Documentation
