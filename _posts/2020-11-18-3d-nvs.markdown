@@ -1,0 +1,28 @@
+---
+title: "3D-NVS: A 3D Supervision Approach for Next View Selection"
+layout: post
+<!-- date: 2016-01-23 22:10 -->
+tag: vision
+image: /assets/images/nus-logo.jpg
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+subtitle: Includes projects prior to May 2018
+description: 
+category: publication
+<!-- author: kumarashutosh -->
+excerpt: "Under review at CVPR 2021"
+excerpt2: Kumar Ashutosh, Saurabh Kumar, Subhasis Chaudhuri
+externalLink: false
+year: year2017
+image:
+  feature: "3d-nvs.PNG"
+---
+
+### Motivation &nbsp;
+
+This work presents a classification-based approach for Next View Selection. We propose a two-stage CNN network to simultaneously obtain next view and reconstruct based on the input images. In this process, we propose a loss function which is end-to-end trainable. The proposed model is unique because we have a classifier layer followed by a reconstructor network. Our model outperforms both state of the art 3D shape reconstruction methods and next view selection methods.
+
+### Update &nbsp;
+
+This blog will be updated once the paper is accepted at CVPR 2021 or a preprint is released, whichever is earlier. 
