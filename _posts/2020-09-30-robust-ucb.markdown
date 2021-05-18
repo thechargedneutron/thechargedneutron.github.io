@@ -11,7 +11,7 @@ subtitle: Includes projects prior to May 2018
 description: 
 category: publication
 <!-- author: kumarashutosh -->
-excerpt: "arXiv preprint. Under review at AISTATS 2021"
+excerpt: "Artificial Intelligence and Statistics (AISTATS), 13th-15th April 2021, Online Conference"
 excerpt2: Kumar Ashutosh, Jayakrishnan Nair, Anmol Kagrecha, Krishna Jagannathan
 paper_link: https://arxiv.org/abs/2006.12038
 externalLink: false

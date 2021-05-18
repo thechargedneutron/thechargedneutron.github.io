@@ -15,7 +15,7 @@ description: An Android Application which would help us understand our surroundi
 category: other-project
 <!-- author: kumarashutosh -->
 excerpt: "The aim of this project is to develop a fully functional Augmented Reality based Location Assistant."
-excerpt2: STALLED. If you are a junior/sophomore at IITB and this project intrigues you, I can mentor you. <a href="mailto:kumar.ashutosh@gmail.com">Email me</a>.
+excerpt2: STALLED. If you are a junior/sophomore at IITB and this project intrigues you, I can mentor you. <a href="mailto:kumar.ashutosh.ee@gmail.com">Email me</a>.
 externalLink: false
 year: year2019
 timedescription: Jun'19 to Jul'19
