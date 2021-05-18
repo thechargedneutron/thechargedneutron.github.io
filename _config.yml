@@ -71,6 +71,10 @@ owner:
   reddit: #username
   telegram: #username
 
+collections:
+  stories:
+    output: true
+
 #
 #####################
 # Plugins
