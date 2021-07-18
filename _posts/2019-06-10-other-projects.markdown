@@ -11,7 +11,7 @@ subtitle: Includes projects prior to May 2018
 description: 
 category: other-project
 <!-- author: kumarashutosh -->
-excerpt: "Lists down some other projects done as part of my curriculum at IIT Bombay. The topics varies from signal processing, online learning to electronics"
+excerpt: "Lists down some other projects done as part of my curriculum at IIT Bombay. The topics covered by projects listed here includes signal processing, online learning, electrical circuits, microcontroller programming etc."
 externalLink: false
 year: year2017
 image:

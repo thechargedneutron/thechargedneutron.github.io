@@ -59,6 +59,10 @@ section.post {
 	}
 }
 
+.vertical-post-space {
+  overflow:auto;
+}
+
 // Post meta
 .post-meta {
   font-size: 13px;
@@ -151,6 +155,7 @@ a.read-more {
   margin-bottom: 40px;
   margin-left: auto;
   margin-right: auto;
+  overflow:auto;
   width: 50%;
   .feature-image {
     max-height: 500px;
