@@ -11,7 +11,7 @@ subtitle: Includes projects prior to May 2018
 description: 
 category: publication
 <!-- author: kumarashutosh -->
-excerpt: "Under review at ICCV 2021"
+excerpt: "Under review at 3DV 2021"
 excerpt2: Kumar Ashutosh, Saurabh Kumar, Subhasis Chaudhuri
 paper_link: https://arxiv.org/abs/2012.01743
 externalLink: false

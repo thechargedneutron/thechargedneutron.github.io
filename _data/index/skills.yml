@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Motivation, Leadership, GitHub, Python, MATLAB, C++, ML, AR/VR, CV, Online Learning
+aspects: Motivation, Leadership, GitHub, Python, MATLAB, C++, ML, AR/VR, Comp Vision, Online Learning
 percentage: 100, 80, 70, 100, 70, 80, 85, 80, 100, 90

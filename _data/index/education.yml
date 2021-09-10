@@ -1,7 +1,12 @@
+- name: University of Texas at Austin
+  job: Ph.D. in CS
+  link: https://www.utexas.edu
+  date: 2021 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+
 - name: Indian Institute of Technology Bombay
-  job: Dual Degree (B.Tech + M.Tech)
+  job: Dual Degree (B.Tech + M.Tech) in EE
   link: http://iitb.ac.in/
-  date: 2016 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  date: 2016 - 2021
   descr: <br> (expected graduation in 2021)
 
 - name: Kendriya Vidyalaya NERIST
