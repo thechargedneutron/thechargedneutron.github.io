@@ -30,8 +30,4 @@ This project is being done in Autumn 2020 semester and expected date of completi
 
 We make a web-based GUI (link to be available soon) to interface with players and develop an underlying python-based agent to make decision based on the state of the game. We are going to experiment with various algorithms including Q-learning, DQN and SARSA.
 
-### Play
-
-To be available by December 2020.
-
 
