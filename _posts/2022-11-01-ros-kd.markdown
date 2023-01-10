@@ -1,0 +1,27 @@
+---
+title: "RoS-KD: A Robust Stochastic Knowledge Distillation Approach for Noisy Medical Imaging"
+layout: post
+<!-- date: 2016-01-23 22:10 -->
+tag: vision
+image: /assets/images/nus-logo.jpg
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+subtitle: Includes projects prior to May 2018
+description: 
+category: publication
+<!-- author: kumarashutosh -->
+excerpt: "IEEE International Conference on Data Mining (ICDM), 2022"
+excerpt2: Ajay Jaiswal, Kumar Ashutosh, Justin F Rousseau, Yifan Peng, Zhangyang Wang, Ying Ding
+paper_link: https://arxiv.org/abs/2210.08388
+externalLink: false
+year: year2017
+image:
+  feature: "ros-kd.png"
+---
+
+### Motivation &nbsp;
+
+Our proposed framework RoS-KD learns a smooth, well-informed, and robust student manifold by distilling knowledge from multiple teachers trained on noisy medical imaging datasets.
+
+Please refer to the paper for more details: [https://arxiv.org/abs/2210.08388](https://arxiv.org/abs/2012.01743)
