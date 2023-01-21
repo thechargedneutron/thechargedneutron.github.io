@@ -38,7 +38,7 @@ owner:
   job: "Graduate Student"
   bio: "i code. i debug. i code."
   quote: "क्रांति की ज्वाला जलती रहनी चाहिए!"
-  email: kumar.ashutosh.ee[AT]gmail.com
+  email: kumar.ashutosh[AT]utexas.edu
   disqus-shortname:
   twitter: chargedneutron_
   facebook: kumarashutosh0
@@ -88,7 +88,7 @@ collections:
 # Google analytics
 #####################
 #
-google_analytics: UA-180283382-1
+google_analytics: UA-180283382-1 # If you are using my template, please update this to avoid your traffic showing up on my google analytics.
 #jekyll_analytics:
 #  GoogleAnalytics:          # Add, if you want to track with Google Analytics
 #    id: UA-180283382-1          # Required - replace with your tracking id
