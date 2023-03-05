@@ -1,5 +1,15 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: FAIR, Meta AI
+  link: https://ai.facebook.com/
+  date: Jan 2023 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i> 
+  job:  Visiting Researcher
+
+- name: FAIR, Meta AI
+  link: https://ai.facebook.com/
+  date: May 2022 - Nov 2022
+  job: Research Intern
+
 - name: 360World, Budapest
   link: https://360.world/
   date: Aug 2019 - Dec 2019

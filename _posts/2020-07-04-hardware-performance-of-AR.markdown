@@ -12,7 +12,7 @@ description:
 category: publication
 <!-- author: kumarashutosh -->
 excerpt: "IEEE Conference on Computational Performance Evaluation (ComPE), 2nd - 4th July 2020, Online Conference"
-excerpt2: Kumar Ashutosh
+excerpt2: <u>Kumar Ashutosh</u>
 paper_link: https://ieeexplore.ieee.org/document/9200079/
 presentation_link: docs/compe_presentation.pdf
 externalLink: false

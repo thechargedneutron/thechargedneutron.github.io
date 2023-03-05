@@ -12,7 +12,7 @@ description:
 category: publication
 <!-- author: kumarashutosh -->
 excerpt: "Brain Informatics Conference (BI), 10th - 12th December 2018, Arlington, Texas, USA"
-excerpt2: Rohit Bose, Kumar Ashutosh, Junhua Li, Andrei Dragomir, Nitish Thakor, and Anastasios Bezerianos
+excerpt2: Rohit Bose<sup>*</sup>, <u>Kumar Ashutosh</u><sup>*</sup>, Junhua Li, Andrei Dragomir, Nitish Thakor, and Anastasios Bezerianos
 paper_link: https://link.springer.com/chapter/10.1007%2F978-3-030-05587-5_28
 externalLink: false
 year: year2017

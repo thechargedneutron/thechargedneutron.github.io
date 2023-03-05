@@ -11,8 +11,8 @@ subtitle: Includes projects prior to May 2018
 description: 
 category: publication
 <!-- author: kumarashutosh -->
-excerpt: "ArXiv preprint"
-excerpt2: Kumar Ashutosh, Saurabh Kumar, Subhasis Chaudhuri
+excerpt: "International Conference on Pattern Recognition (ICPR) 2022"
+excerpt2: <u>Kumar Ashutosh</u>, Saurabh Kumar, Subhasis Chaudhuri
 paper_link: https://arxiv.org/abs/2012.01743
 externalLink: false
 year: year2017

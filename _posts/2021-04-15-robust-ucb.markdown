@@ -12,7 +12,7 @@ description:
 category: publication
 <!-- author: kumarashutosh -->
 excerpt: "Artificial Intelligence and Statistics (AISTATS), 13th-15th April 2021, Online Conference <br> <b>Oral Presentation (Selection rate: 3%)</b>"
-excerpt2: Kumar Ashutosh, Jayakrishnan Nair, Anmol Kagrecha, Krishna Jagannathan
+excerpt2: <u>Kumar Ashutosh</u>, Jayakrishnan Nair, Anmol Kagrecha, Krishna Jagannathan
 paper_link: https://arxiv.org/abs/2006.12038
 externalLink: false
 year: year2017

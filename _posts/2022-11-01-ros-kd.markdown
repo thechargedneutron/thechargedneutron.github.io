@@ -9,10 +9,10 @@ projects: true
 hidden: true # don't count this post in blog pagination
 subtitle: Includes projects prior to May 2018
 description: 
-category: publication
+category: publication-ut
 <!-- author: kumarashutosh -->
 excerpt: "IEEE International Conference on Data Mining (ICDM), 2022"
-excerpt2: Ajay Jaiswal, Kumar Ashutosh, Justin F Rousseau, Yifan Peng, Zhangyang Wang, Ying Ding
+excerpt2: Ajay Jaiswal, <u>Kumar Ashutosh</u>, Justin F Rousseau, Yifan Peng, Zhangyang Wang, Ying Ding
 paper_link: https://arxiv.org/abs/2210.08388
 externalLink: false
 year: year2017

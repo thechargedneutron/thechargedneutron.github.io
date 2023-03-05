@@ -12,7 +12,7 @@ description:
 category: publication
 <!-- author: kumarashutosh -->
 excerpt: "IEEE Conference on Decision and Control (CDC), 8th - 11th December 2020, Online Conference"
-excerpt2: Kumar Ashutosh, Sarthak Consul, Bhishma Dedhia, Parthasarathi Khirwadkar, Sahil Shah, and Shivaram Kalyanakrishnan
+excerpt2: <u>Kumar Ashutosh</u><sup>*</sup>, Sarthak Consul<sup>*</sup>, Bhishma Dedhia<sup>*</sup>, Parthasarathi Khirwadkar<sup>*</sup>, Sahil Shah<sup>*</sup>, and Shivaram Kalyanakrishnan
 paper_link: https://arxiv.org/abs/2009.07842
 code_link: https://github.com/SConsul/PI_Lower_Bound
 externalLink: false
