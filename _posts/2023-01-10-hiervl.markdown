@@ -11,12 +11,13 @@ subtitle: Includes projects prior to May 2018
 description: 
 category: publication-ut
 <!-- author: kumarashutosh -->
-excerpt: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2023"
+excerpt: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2023 <br> <b style='color:red;'>Highlight Presentation (Selection rate: 2.5%)</b>"
 excerpt2: <u>Kumar Ashutosh</u>, Rohit Girdhar, Lorenzo Torresani, Kristen Grauman
 paper_link: https://arxiv.org/abs/2301.02311
 project_page: https://vision.cs.utexas.edu/projects/hiervl/
 externalLink: false
 year: year2017
+presentation: oral
 image:
   feature: "motivation_hiervl.jpg"
 ---
