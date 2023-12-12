@@ -18,7 +18,7 @@ project_page: https://vision.cs.utexas.edu/projects/task_graph/
 externalLink: false
 year: year2017
 image:
-  feature: "teaser_task_graph.png"
+  feature: "only_task_graph.png"
 ---
 
 Please refer to the project page: [https://vision.cs.utexas.edu/projects/task_graph/](https://vision.cs.utexas.edu/projects/task_graph/) and the paper: [https://arxiv.org/abs/2307.08763](https://arxiv.org/abs/2307.08763)
