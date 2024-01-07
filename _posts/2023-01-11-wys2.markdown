@@ -11,7 +11,7 @@ subtitle: Includes projects prior to May 2018
 description: 
 category: publication-ut
 <!-- author: kumarashutosh -->
-excerpt: "ArXiv preprint, 2023"
+excerpt: "ArXiv 2023"
 excerpt2: <u>Kumar Ashutosh</u>, Rohit Girdhar, Lorenzo Torresani, Kristen Grauman
 paper_link: https://arxiv.org/abs/2301.02307
 externalLink: false

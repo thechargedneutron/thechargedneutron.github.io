@@ -1,0 +1,27 @@
+---
+title: "Detours for Navigating Instructional Videos"
+layout: post
+<!-- date: 2016-01-23 22:10 -->
+tag: vision
+image: /assets/images/nus-logo.jpg
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+subtitle: Includes projects prior to May 2018
+description: 
+category: publication-ut
+<!-- author: kumarashutosh -->
+excerpt: "ArXiv 2024"
+excerpt2: <u>Kumar Ashutosh</u>, Zihui Xue, Tushar Nagarajan, Kristen Grauman
+paper_link: https://arxiv.org/abs/2401.01823
+externalLink: false
+year: year2017
+image:
+  feature: "teaser_detour_v2.png"
+---
+
+Please refer to the paper: [https://arxiv.org/abs/2401.01823](https://arxiv.org/abs/2401.01823). Project page will be available soon.
+
+### Abstract &nbsp;
+
+We introduce the video detours problem for navigating instructional videos. Given a source video and a natural language query asking to alter the how-to video's current path of execution in a certain way, the goal is to find a related ''detour video'' that satisfies the requested alteration. To address this challenge, we propose VidDetours, a novel video-language approach that learns to retrieve the targeted temporal segments from a large repository of how-to's using video-and-text conditioned queries. Furthermore, we devise a language-based pipeline that exploits how-to video narration text to create weakly supervised training data. We demonstrate our idea applied to the domain of how-to cooking videos, where a user can detour from their current recipe to find steps with alternate ingredients, tools, and techniques. Validating on a ground truth annotated dataset of 16K samples, we show our model's significant improvements over best available methods for video retrieval and question answering, with recall rates exceeding the state of the art by 35%.

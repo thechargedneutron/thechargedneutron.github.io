@@ -11,7 +11,7 @@ subtitle: Includes projects prior to May 2018
 description: 
 category: publication-ut
 <!-- author: kumarashutosh -->
-excerpt: "arXiv 2023"
+excerpt: "ArXiv 2023"
 excerpt2: Kristen Grauman, Andrew Westbury, Lorenzo Torresani, Kris Kitani, Jitendra Malik, Triantafyllos Afouras, <u>Kumar Ashutosh</u>, ... , Michael Wray
 paper_link: https://arxiv.org/abs/2311.18259
 project_page: https://ego-exo4d-data.org
