@@ -11,7 +11,7 @@ subtitle: Includes projects prior to May 2018
 description: 
 category: publication-ut
 <!-- author: kumarashutosh -->
-excerpt: "ArXiv 2023"
+excerpt: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2024"
 excerpt2: Zihui Xue, <u>Kumar Ashutosh</u>, Kristen Grauman
 paper_link: https://arxiv.org/abs/2312.11782
 project_page: https://vision.cs.utexas.edu/projects/VidOSC/

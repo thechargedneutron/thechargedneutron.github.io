@@ -11,7 +11,7 @@ subtitle: Includes projects prior to May 2018
 description: 
 category: publication-ut
 <!-- author: kumarashutosh -->
-excerpt: "ArXiv 2024"
+excerpt: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2024"
 excerpt2: <u>Kumar Ashutosh</u>, Zihui Xue, Tushar Nagarajan, Kristen Grauman
 paper_link: https://arxiv.org/abs/2401.01823
 externalLink: false
