@@ -18,7 +18,7 @@ project_page: https://vision.cs.utexas.edu/projects/soundingactions/
 externalLink: false
 year: year2017
 image:
-  feature: "intro_oscc.png"
+  feature: "sounding_actions.png"
 ---
 
 Please refer to the project page: [https://vision.cs.utexas.edu/projects/soundingactions/](https://vision.cs.utexas.edu/projects/soundingactions/) and the CVPR 2024 paper: [https://changan.io/files/SoundingActions.pdf](https://changan.io/files/SoundingActions.pdf)
