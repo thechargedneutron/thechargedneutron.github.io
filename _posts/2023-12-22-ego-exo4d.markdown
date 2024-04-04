@@ -11,12 +11,13 @@ subtitle: Includes projects prior to May 2018
 description: 
 category: publication-ut
 <!-- author: kumarashutosh -->
-excerpt: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2024"
+excerpt: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2024 <br> <b style='color:red;'>Oral Presentation (Selection rate: 0.8%)</b>"
 excerpt2: Kristen Grauman, Andrew Westbury, Lorenzo Torresani, Kris Kitani, Jitendra Malik, Triantafyllos Afouras, <u>Kumar Ashutosh</u>, ... , Michael Wray
 paper_link: https://arxiv.org/abs/2311.18259
 project_page: https://ego-exo4d-data.org
 externalLink: false
 year: year2017
+presentation: oral
 image:
   feature: "ego-exo4d-teaser.png"
 ---
