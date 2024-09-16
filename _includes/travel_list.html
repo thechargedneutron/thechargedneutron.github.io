@@ -1,3 +1,71 @@
+<head>
+  <title>Interactive Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <style>
+      #map {
+          height: 600px;
+          width: 100%;
+      }
+      .popup-content {
+          text-align: center;
+          width: 300px; /* Adjust the width as needed */
+          height: auto;
+      }
+      .popup-content img {
+          max-width: 100%;
+          height: auto;
+      }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script>
+      // Initialize the map
+      var map = L.map('map').setView([20, 0], 2);
+
+      // Add a tile layer
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '© OpenStreetMap contributors'
+      }).addTo(map);
+
+      // Add locations with popups
+      var locations = [
+          {
+              coords: [48.8566, 2.3522],
+              photo: 'assets/images/chinatown.jpg',
+              caption: 'Paris, France'
+          },
+          {
+              coords: [40.7128, -74.0060],
+              photo: 'path/to/nyc.jpg',
+              caption: 'New York City, USA'
+          }
+          // Add more locations as needed
+      ];
+
+      var firstMarker; // Variable to store the first marker
+
+      locations.forEach(function(location, index) {
+          var popupContent = '<div class="popup-content">' +
+                             '<img src="' + location.photo + '" alt="' + location.caption + '">' +
+                             '<p>' + location.caption + '</p>' +
+                             '</div>';
+
+          var marker = L.marker(location.coords).addTo(map)
+              .bindPopup(popupContent);
+          
+          if (index === 0) {
+              firstMarker = marker;
+          }
+      });
+
+      // Open the popup for the first marker by default
+      if (firstMarker) {
+          firstMarker.openPopup();
+      }
+  </script>
+</body>
 {% for post in site.posts %}
   {% for cat in post.categories %}
     {% if cat == "blog-travel" %}
