@@ -14,6 +14,7 @@ category: publication-ut
 excerpt: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2024 <br> <b style='color:red;'>Highlight Presentation (Selection rate: 2.8%)</b>"
 excerpt2: <u>Kumar Ashutosh</u>, Zihui Xue, Tushar Nagarajan, Kristen Grauman
 paper_link: https://arxiv.org/abs/2401.01823
+project_page: https://vision.cs.utexas.edu/projects/detours/
 externalLink: false
 year: year2017
 presentation: oral
