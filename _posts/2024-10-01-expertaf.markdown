@@ -11,7 +11,7 @@ subtitle: Includes projects prior to May 2018
 description: 
 category: publication-ut
 <!-- author: kumarashutosh -->
-excerpt: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2024"
+excerpt: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2025"
 excerpt2: <u>Kumar Ashutosh</u>, Tushar Nagarajan, Georgios Pavlakos, Kris Kitani, Kristen Grauman
 paper_link: https://arxiv.org/abs/2408.00672
 project_page: https://vision.cs.utexas.edu/projects/ExpertAF/
