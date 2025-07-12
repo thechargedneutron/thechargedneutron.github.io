@@ -46,7 +46,10 @@ img {
   {% for cat in post.categories %}
     {% if cat == "publication-ut" %}
     <div class="vertical-post-space">
-      <p><img src="{{ site.url }}/img/{{ post.image.feature }}" style="width:170px;height:auto;margin-right:15px;">
+      <p>
+        <div style="display: inline-block; height: 250px; width: auto;">
+        <img src="{{ site.url }}/img/{{ post.image.feature }}" style="width:170px;height:auto;margin-right:15px;">
+        </div>
         {% if post.presentation == "oral" %}
         <section class="post" style="background-color: #fcf1e8;">
         {% else %}
