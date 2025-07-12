@@ -1,0 +1,28 @@
+---
+title: "Vid2Coach: Transforming How-To Videos into Task Assistants"
+layout: post
+<!-- date: 2016-01-23 22:10 -->
+tag: vision
+image: /assets/images/nus-logo.jpg
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+subtitle: Includes projects prior to May 2018
+description: 
+category: publication-ut
+<!-- author: kumarashutosh -->
+excerpt: "ACM Symposium on User Interface Software and Technology (UIST), Oct 2025"
+excerpt2: Mina Huh, Zihui Xue, Ujjaini Das, <u>Kumar Ashutosh</u>, Kristen Grauman, Amy Pavel
+paper_link: https://arxiv.org/abs/2506.00717
+project_page: https://arxiv.org/abs/2506.00717
+externalLink: false
+year: year2017
+image:
+  feature: "teaser_fiction.png"
+---
+
+Please refer to the paper: [[https://arxiv.org/abs/2506.00717](https://arxiv.org/abs/2506.00717)].
+
+### Abstract &nbsp;
+
+People use videos to learn new recipes, exercises, and crafts. Such videos remain difficult for blind and low vision (BLV) people to follow as they rely on visual comparison. Our observations of visual rehabilitation therapists (VRTs) guiding BLV people to follow how-to videos revealed that VRTs provide both proactive and responsive support including detailed descriptions, non-visual workarounds, and progress feedback. We propose Vid2Coach, a system that transforms how-to videos into wearable camera-based assistants that provide accessible instructions and mixed-initiative feedback. From the video, Vid2Coach generates accessible instructions by augmenting narrated instructions with demonstration details and completion criteria for each step. It then uses retrieval-augmented-generation to extract relevant non-visual workarounds from BLV-specific resources. Vid2Coach then monitors user progress with a camera embedded in commercial smart glasses to provide context-aware instructions, proactive feedback, and answers to user questions. BLV participants (N=8) using Vid2Coach completed cooking tasks with 58.5\% fewer errors than when using their typical workflow and wanted to use Vid2Coach in their daily lives. Vid2Coach demonstrates an opportunity for AI visual assistance that strengthens rather than replaces non-visual expertise.
