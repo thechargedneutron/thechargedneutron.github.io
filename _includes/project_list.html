@@ -48,8 +48,7 @@ img {
     <div class="vertical-post-space">
       <p><img src="{{ site.url }}/img/{{ post.image.feature }}" style="width:200px;height:200px;margin-right:15px;">
         {% if post.presentation == "oral" %}
-        <section class="post">
-           <!-- style="background-color: #fcf1e8; height: 200px;" -->
+        <section class="post" style="background-color: #fcf1e8;">
         {% else %}
         <section class="post">
         {% endif %}
@@ -154,13 +153,12 @@ img {
     {% if cat == "publication" %}
     <div class="vertical-post-space">
       <p><img src="{{ site.url }}/img/{{ post.image.feature }}" style="width:200px;height:200px;margin-right:15px;">
-        <section class="post">
         {% if post.presentation == "oral" %}
-          <header class="post-header" style="background-color: #fcf1e8;">
-           <!-- style="background-color: #fcf1e8; height: 200px" -->
+        <section class="post" style="background-color: #fcf1e8;">
         {% else %}
-          <header class="post-header">
+        <section class="post">
         {% endif %}
+          <header class="post-header">
             <!-- <p class="post-meta">
               <span class="post-date">
                 {{ post.date | date: "%-d %b %Y" | upcase }}
