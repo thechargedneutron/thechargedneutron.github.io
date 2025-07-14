@@ -18,7 +18,7 @@ project_page: https://arxiv.org/abs/2506.00717
 externalLink: false
 year: year2017
 image:
-  feature: "teaser_fiction.png"
+  feature: "vid2coach.png"
 ---
 
 Please refer to the paper: [[https://arxiv.org/abs/2506.00717](https://arxiv.org/abs/2506.00717)].
