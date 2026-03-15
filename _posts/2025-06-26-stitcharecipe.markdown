@@ -11,7 +11,7 @@ subtitle: Includes projects prior to May 2018
 description: 
 category: publication-ut
 <!-- author: kumarashutosh -->
-excerpt: "ArXiv 2025"
+excerpt: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), June 2026"
 excerpt2: Chi Hsuan Wu<sup>*</sup>, <u>Kumar Ashutosh<sup>*</sup></u>, Kristen Grauman
 paper_link: https://arxiv.org/abs/2503.13821
 project_page: https://vision.cs.utexas.edu/projects/stitch-a-recipe/

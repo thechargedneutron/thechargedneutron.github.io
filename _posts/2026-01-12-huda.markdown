@@ -1,0 +1,28 @@
+---
+title: "Human detectors are surprisingly powerful reward models"
+layout: post
+<!-- date: 2016-01-23 22:10 -->
+tag: vision
+image: /assets/images/nus-logo.jpg
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+subtitle: Includes projects prior to May 2018
+description: 
+category: publication-ut
+<!-- author: kumarashutosh -->
+excerpt: "arXiv 2026"
+excerpt2: <u>Kumar Ashutosh</u>, XuDong Wang, Xi Yin, Kristen Grauman, Adam Polyak, Ishan Misra, Rohit Girdhar
+paper_link: https://arxiv.org/abs/2601.14037
+project_page: https://huda-reward-model.github.io/
+externalLink: false
+year: year2017
+image:
+  feature: "huda.png"
+---
+
+Please refer to the paper: [[https://arxiv.org/abs/2601.14037](https://arxiv.org/abs/2601.14037)].
+
+### Abstract &nbsp;
+
+Video generation models have recently achieved impressive visual fidelity and temporal coherence. Yet, they continue to struggle with complex, non-rigid motions, especially when synthesizing humans performing dynamic actions such as sports, dance, etc. Generated videos often exhibit missing or extra limbs, distorted poses, or physically implausible actions. In this work, we propose a remarkably simple reward model, HuDA, to quantify and improve the human motion in generated videos. HuDA integrates human detection confidence for appearance quality, and a temporal prompt alignment score to capture motion realism. We show this simple reward function that leverages off-the-shelf models without any additional training, outperforms specialized models finetuned with manually annotated data. Using HuDA for Group Reward Policy Optimization (GRPO) post-training of video models, we significantly enhance video generation quality, especially when generating complex human motions, outperforming state-of-the-art models like Wan 2.1. Finally, we demonstrate that HuDA improves generation quality beyond just humans, for instance, significantly improving generation of animal videos and human-object interactions.
