@@ -1,5 +1,5 @@
 ---
-title: "Stitch-a-Recipe: Video Demonstration from Multistep Descriptions"
+title: "Stitch-a-Demo: Video Demonstration from Multistep Descriptions"
 layout: post
 <!-- date: 2016-01-23 22:10 -->
 tag: vision
