@@ -3,6 +3,9 @@ _site
 .directory
 Thumbs.db
 _drafts
-.ruby-version
-Gemfile.lock
 .DS_Store
+
+# Local Ruby/Bundler install artifacts (do NOT commit these)
+vendor/
+.bundle/
+.gems/
