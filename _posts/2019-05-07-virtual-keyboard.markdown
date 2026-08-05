@@ -15,7 +15,7 @@ subtitle: Self Project
 description: Tested various Keyboard designs using Leap Motion Controller. The developed Keyboard can be used in AR/VR with Head Mounted Displays (HMDs) as well as with Personal Computers.
 category: project
 <!-- author: kumarashutosh -->
-excerpt: "This is one of my many hobby projects done this semester. It is aimed to learning how to use Hardwares for AR/VR. I wanted to experiment with the Leap Motion Controller as soon as I knew about it."
+excerpt: "This is one of my many hobby projects done this semester. It is aimed at learning how to use hardware for AR/VR. I wanted to experiment with the Leap Motion Controller as soon as I knew about it."
 externalLink: false
 year: year2019
 timedescription: May'19
@@ -25,7 +25,7 @@ image:
 
 ## Introduction
 
-This is one of my many hobby projects done this semester. It is aimed to learning how to use Hardwares for AR/VR. I wanted to experiment with the Leap Motion Controller as soon as I knew about it.
+This is one of my many hobby projects done this semester. It is aimed at learning how to use hardware for AR/VR. I wanted to experiment with the Leap Motion Controller as soon as I knew about it.
 
 ## Softwares and Hardwares
 

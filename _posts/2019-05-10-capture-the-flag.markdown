@@ -11,13 +11,13 @@ headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 subtitle: Research & Development Project with Prof Parag Chaudhuri, IIT Bombay
-description: Conducted Literature Survey and surveyed AR Game. Developed a Table Top AR Game which fits into the terrian of the scene and adjusts the game object based on the markers. The characters can move in 3D world with correct spatial understanding.
+description: Conducted Literature Survey and surveyed AR Game. Developed a Table Top AR Game which fits into the terrain of the scene and adjusts the game object based on the markers. The characters can move in 3D world with correct spatial understanding.
 category: project
 <!-- author: kumarashutosh -->
 externalLink: false
 year: year2019
 timedescription: Jan'19 to May'19
-excerpt: "This blog contains report of Research and Development project done in the supervision of Prof. Parag Chaudhuri, IIT Bombay. In this proect, I developed a novel AR-based table top game which fits into the terrian of the scene and adjusts the game object based on the markers. The characters can move in 3D world with correct spatial understanding."
+excerpt: "This blog contains report of Research and Development project done in the supervision of Prof. Parag Chaudhuri, IIT Bombay. In this project, I developed a novel AR-based table top game which fits into the terrain of the scene and adjusts the game object based on the markers. The characters can move in 3D world with correct spatial understanding."
 image:
   feature: "capture-the-flag.PNG"
 ---

@@ -11,7 +11,7 @@ tag:
 category: blog-tech
 <!-- author: kumarashutosh -->
 description: My contributions to scikit-learn
-excerpt: "I am an active contributor to sciki-learn, a machine learning package in Python. I list down my contributions to scikit-learn in this blog."
+excerpt: "I am an active contributor to scikit-learn, a machine learning package in Python. I list down my contributions to scikit-learn in this blog."
 ---
 
 Hello,

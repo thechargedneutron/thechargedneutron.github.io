@@ -11,7 +11,7 @@ headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 subtitle: Project in Advanced Machine Learning course at IIT Bombay
-description: Conducted Literature Survey and surveyed AR Game. Developed a Table Top AR Game which fits into the terrian of the scene and adjusts the game object based on the markers. The characters can move in 3D world with correct spatial understanding.
+description: Conducted Literature Survey and surveyed AR Game. Developed a Table Top AR Game which fits into the terrain of the scene and adjusts the game object based on the markers. The characters can move in 3D world with correct spatial understanding.
 category: project
 <!-- author: kumarashutosh -->
 externalLink: false

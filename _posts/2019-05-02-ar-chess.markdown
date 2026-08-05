@@ -15,7 +15,7 @@ description: A fully functional Augmented Reality Chess Game with multiple board
 category: other-project
 <!-- author: kumarashutosh -->
 excerpt: "The aim of the project is to develop a fully functional Augmented Reality based Chess game application."
-excerpt2: STALLED. Done indepenently by Rishi Vanukuru
+excerpt2: STALLED. Done independently by Rishi Vanukuru
 externalLink: false
 year: year2019
 timedescription: Jun'19 to Jul'19

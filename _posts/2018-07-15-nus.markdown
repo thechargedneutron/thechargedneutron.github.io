@@ -14,7 +14,7 @@ hidden: true # don't count this post in blog pagination
 subtitle: Research Internship under Prof. A. Bezerianos and Prof Nitish Thakor, NUS Singapore
 description: Investigated Brain Connectivity Patterns during Creative thinking. Also obtained statistically significant differences in brain connvectivity during convergent and divergent thinking.
 category: project
-excerpt: "I was selected as a research intern under Prof Anastasios Bezerianos and Prof Nitish Thakor, at SINAPSE (Singapore Institute for Neurotechnology), at NUS (National University of Singapore). I worked in eastablishing brain connectivity patterns during creative thinking. I explored how the EEG (Electroencephelogram) brain pattern changes during creative thinking and established statistical differences between the two states of mind."
+excerpt: "I was selected as a research intern under Prof Anastasios Bezerianos and Prof Nitish Thakor, at SINAPSE (Singapore Institute for Neurotechnology), at NUS (National University of Singapore). I worked in establishing brain connectivity patterns during creative thinking. I explored how the EEG (Electroencephalogram) brain pattern changes during creative thinking and established statistical differences between the two states of mind."
 <!-- author: kumarashutosh -->
 externalLink: false
 year: year2018
@@ -25,7 +25,7 @@ image:
 
 ## Introduction
 
-I was selected as a research intern under Prof Anastasios Bezerianos and Prof Nitish Thakor, at SINAPSE (Singapore Institute for Neurotechnology), at NUS (National University of Singapore). I worked in eastablishing brain connectivity patterns during creative thinking. I explored how the EEG (Electroencephelogram) brain pattern changes during creative thinking and established statistical differences between the two states of mind.
+I was selected as a research intern under Prof Anastasios Bezerianos and Prof Nitish Thakor, at SINAPSE (Singapore Institute for Neurotechnology), at NUS (National University of Singapore). I worked in establishing brain connectivity patterns during creative thinking. I explored how the EEG (Electroencephalogram) brain pattern changes during creative thinking and established statistical differences between the two states of mind.
 
 ## The Work
 

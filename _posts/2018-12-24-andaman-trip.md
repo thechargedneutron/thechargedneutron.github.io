@@ -6,7 +6,7 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - travel
-- Andaman and Nicober Islands
+- Andaman and Nicobar Islands
 - Vacation
 - Family
 - Winter
@@ -17,7 +17,7 @@ image:
   creditlink: https://en.wikipedia.org/wiki/Havelock_Island
 <!-- author: kumarashutosh -->
 description: Good times in Andamans
-excerpt: "In this blog post, I pen down my family trip experience to the untouched paradise - Andaman and Nicober Islands. In this week-long journey, we went to many beautiful beaches and historical sites. Scuba diving, I would say, was the pinnacle of my excitement."
+excerpt: "In this blog post, I pen down my family trip experience to the untouched paradise - Andaman and Nicobar Islands. In this week-long journey, we went to many beautiful beaches and historical sites. Scuba diving, I would say, was the pinnacle of my excitement."
 ---
 
 <span style="color:red">**Day 1**</span>.

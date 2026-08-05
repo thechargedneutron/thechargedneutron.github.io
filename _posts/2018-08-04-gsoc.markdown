@@ -16,7 +16,7 @@ description: Employed GLSL Shaders to build stunning visualizations of brain ima
 category: project
 externalLink: false
 year: year2018
-excerpt: "Google Summer of Code is an annual Open Source program which selects open source enthusiasts who work on interesting projects under many different open source organizations. The aim of the program is to promote open source and to teach the practices of good coding skills. The program is high competitive and the acceptance rate is around 20-25%.
+excerpt: "Google Summer of Code is an annual Open Source program which selects open source enthusiasts who work on interesting projects under many different open source organizations. The aim of the program is to promote open source and to teach the practices of good coding skills. The program is highly competitive and the acceptance rate is around 20-25%.
 
 I was selected in dipy - an open source organization in Medical Imaging. My mentor is an Assistant Professor at Indiana University, Bloomington.
 
@@ -29,7 +29,7 @@ image:
 
 ## Introduction
 
-Google Summer of Code is an annual Open Source program which selects open source enthusiasts who work on interesting projects under many different open source organizations. The aim of the program is to promote open source and to teach the practices of good coding skills. The program is high competitive and the acceptance rate is around 20-25%.
+Google Summer of Code is an annual Open Source program which selects open source enthusiasts who work on interesting projects under many different open source organizations. The aim of the program is to promote open source and to teach the practices of good coding skills. The program is highly competitive and the acceptance rate is around 20-25%.
 
 I was selected in dipy - an open source organization in Medical Imaging. My mentor is an Assistant Professor at Indiana University, Bloomington.
 

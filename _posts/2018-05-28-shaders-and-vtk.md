@@ -12,12 +12,12 @@ tag:
 category: blog-tech
 <!-- author: kumarashutosh -->
 description: GSoC Mode On!!
-excerpt: "The last two weeks were full of fun. Sitting near my screen exploring various shaders was fun. With the help of Elef and Ranveer, I could do a lot of different examples and all this helped me build some really cool visualization examples (At least I was amazed :P ). In this blog,  I walk the reader through few things I achieved over the past two weeks."
+excerpt: "The last two weeks were full of fun. Sitting near my screen exploring various shaders was fun. With the help of Elef and Ranveer, I could do a lot of different examples and all this helped me build some really cool visualization examples (At least I was amazed :P ). In this blog,  I walk the reader through a few things I achieved over the past two weeks."
 ---
 
 Hey folks,
 The last two weeks were full of fun. Sitting near my screen exploring various shaders was fun. With the help of Elef and Ranveer, I could do a lot of different examples and all this helped me build some really cool visualization examples (At least I was amazed :P ).
-So let me walk you through few things I achieved over the past two weeks.
+So let me walk you through a few things I achieved over the past two weeks.
 
 - Displaying Frame-Rate of vtk Renderer
 The example renders ten small unit radii spheres and displays the number of times the screen is rendered per second.  It is calculated by finding the inverse of the last rendering time (in seconds of course). And we obtain last rendering time using a callback function GetLastRenderTimeInSeconds. As the name suggests, this function returns the time delay between last rendering time and the present rendering time.
