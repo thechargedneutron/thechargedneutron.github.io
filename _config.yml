@@ -6,7 +6,7 @@
 title: Kumar Ashutosh
 email:
 description: My personal webpage.
-url: # the base hostname & protocol for your site
+url: "https://ashutoshkr.me" # the base hostname & protocol for your site (canonical domain)
 keywords: ["blog", "jekyll"]
 
 #
@@ -81,8 +81,16 @@ collections:
 # Plugins
 #####################
 #
-#plugins:
+plugins:
+  - jekyll-sitemap
 #  - jekyll-analytics
+
+# Keep Google's site-verification file out of the sitemap
+defaults:
+  - scope:
+      path: "google1f85b18a1a3d219a.html"
+    values:
+      sitemap: false
 
 #
 #####################
